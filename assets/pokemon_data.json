@@ -1,0 +1,4273 @@
+{
+  "Abra": {
+    "id": 63,
+    "name": "Abra",
+    "slug": "abra",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 0.9,
+    "weight_kg": 19.5,
+    "base_experience": 62,
+    "abilities": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "hidden_ability": "Magic Guard",
+    "stats": {
+      "HP": 25,
+      "Attack": 20,
+      "Defense": 15,
+      "Special Attack": 105,
+      "Special Defense": 55,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/abra.png",
+    "cry": "assets/cries/063_abra.ogg",
+    "audio_path": "assets/cries/063_abra.ogg",
+    "categoria_es": "Pokémon Psi",
+    "descripcion_es": "Duerme 18 horas al día y mientras lo hace es capaz de usar una serie de poderes extrasensoriales.",
+    "voice_path": "assets/voices/063_abra.mp3"
+  },
+  "Aerodactyl": {
+    "id": 142,
+    "name": "Aerodactyl",
+    "slug": "aerodactyl",
+    "types": [
+      "Rock",
+      "Flying"
+    ],
+    "height_m": 1.8,
+    "weight_kg": 59.0,
+    "base_experience": 180,
+    "abilities": [
+      "Rock Head",
+      "Pressure"
+    ],
+    "hidden_ability": "Unnerve",
+    "stats": {
+      "HP": 80,
+      "Attack": 105,
+      "Defense": 65,
+      "Special Attack": 60,
+      "Special Defense": 75,
+      "Speed": 130
+    },
+    "sprite": "assets/sprites/aerodactyl.png",
+    "cry": "assets/cries/142_aerodactyl.ogg",
+    "audio_path": "assets/cries/142_aerodactyl.ogg",
+    "categoria_es": "Pokémon Fósil",
+    "descripcion_es": "Se regeneró a partir de material genético de un dinosaurio encontrado en ámbar. Cuando vuela emite escandalosos alaridos.",
+    "voice_path": "assets/voices/142_aerodactyl.mp3"
+  },
+  "Alakazam": {
+    "id": 65,
+    "name": "Alakazam",
+    "slug": "alakazam",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 48.0,
+    "base_experience": 225,
+    "abilities": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "hidden_ability": "Magic Guard",
+    "stats": {
+      "HP": 55,
+      "Attack": 50,
+      "Defense": 45,
+      "Special Attack": 135,
+      "Special Defense": 95,
+      "Speed": 120
+    },
+    "sprite": "assets/sprites/alakazam.png",
+    "cry": "assets/cries/065_alakazam.ogg",
+    "audio_path": "assets/cries/065_alakazam.ogg",
+    "categoria_es": "Pokémon Psi",
+    "descripcion_es": "Sus neuronas se multiplican continuamente durante su vida. Por eso, siempre lo recuerda todo.",
+    "voice_path": "assets/voices/065_alakazam.mp3"
+  },
+  "Arbok": {
+    "id": 24,
+    "name": "Arbok",
+    "slug": "arbok",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 3.5,
+    "weight_kg": 65.0,
+    "base_experience": 157,
+    "abilities": [
+      "Intimidate",
+      "Shed Skin"
+    ],
+    "hidden_ability": "Unnerve",
+    "stats": {
+      "HP": 60,
+      "Attack": 95,
+      "Defense": 69,
+      "Special Attack": 65,
+      "Special Defense": 79,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/arbok.png",
+    "cry": "assets/cries/024_arbok.ogg",
+    "audio_path": "assets/cries/024_arbok.ogg",
+    "categoria_es": "Pokémon Cobra",
+    "descripcion_es": "El dibujo que tiene en la panza aterroriza. Los rivales más débiles salen huyendo al verlo.",
+    "voice_path": "assets/voices/024_arbok.mp3"
+  },
+  "Arcanine": {
+    "id": 59,
+    "name": "Arcanine",
+    "slug": "arcanine",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 1.9,
+    "weight_kg": 155.0,
+    "base_experience": 194,
+    "abilities": [
+      "Intimidate",
+      "Flash Fire"
+    ],
+    "hidden_ability": "Justified",
+    "stats": {
+      "HP": 90,
+      "Attack": 110,
+      "Defense": 80,
+      "Special Attack": 100,
+      "Special Defense": 80,
+      "Speed": 95
+    },
+    "sprite": "assets/sprites/arcanine.png",
+    "cry": "assets/cries/059_arcanine.ogg",
+    "audio_path": "assets/cries/059_arcanine.ogg",
+    "categoria_es": "Pokémon Leyenda",
+    "descripcion_es": "Un Pokémon muy admirado desde la antigüedad por su belleza. Corre ágilmente como si tuviera alas.",
+    "voice_path": "assets/voices/059_arcanine.mp3"
+  },
+  "Articuno": {
+    "id": 144,
+    "name": "Articuno",
+    "slug": "articuno",
+    "types": [
+      "Ice",
+      "Flying"
+    ],
+    "height_m": 1.7,
+    "weight_kg": 55.4,
+    "base_experience": 261,
+    "abilities": [
+      "Pressure"
+    ],
+    "hidden_ability": "Snow Cloak",
+    "stats": {
+      "HP": 90,
+      "Attack": 85,
+      "Defense": 100,
+      "Special Attack": 95,
+      "Special Defense": 125,
+      "Speed": 85
+    },
+    "sprite": "assets/sprites/articuno.png",
+    "cry": "assets/cries/144_articuno.ogg",
+    "audio_path": "assets/cries/144_articuno.ogg",
+    "categoria_es": "Pokémon Congelar",
+    "descripcion_es": "Legendario Pokémon pájaro capaz de generar ventiscas congelando la humedad del aire.",
+    "voice_path": "assets/voices/144_articuno.mp3"
+  },
+  "Beedrill": {
+    "id": 15,
+    "name": "Beedrill",
+    "slug": "beedrill",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 29.5,
+    "base_experience": 178,
+    "abilities": [
+      "Swarm"
+    ],
+    "hidden_ability": "Sniper",
+    "stats": {
+      "HP": 65,
+      "Attack": 90,
+      "Defense": 40,
+      "Special Attack": 45,
+      "Special Defense": 80,
+      "Speed": 75
+    },
+    "sprite": "assets/sprites/beedrill.png",
+    "cry": "assets/cries/015_beedrill.ogg",
+    "audio_path": "assets/cries/015_beedrill.ogg",
+    "categoria_es": "Pokémon Abeja Veneno",
+    "descripcion_es": "Tiene 3 aguijones venenosos en sus patas y cola. Suelen pinchar a sus enemigos repetidas veces.",
+    "voice_path": "assets/voices/015_beedrill.mp3"
+  },
+  "Bellsprout": {
+    "id": 69,
+    "name": "Bellsprout",
+    "slug": "bellsprout",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 0.7,
+    "weight_kg": 4.0,
+    "base_experience": 60,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Gluttony",
+    "stats": {
+      "HP": 50,
+      "Attack": 75,
+      "Defense": 35,
+      "Special Attack": 70,
+      "Special Defense": 30,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/bellsprout.png",
+    "cry": "assets/cries/069_bellsprout.ogg",
+    "audio_path": "assets/cries/069_bellsprout.ogg",
+    "categoria_es": "Pokémon Flor",
+    "descripcion_es": "Aunque su cuerpo es extremadamente delgado, es muy rápido a la hora de capturar sus presas.",
+    "voice_path": "assets/voices/069_bellsprout.mp3"
+  },
+  "Blastoise": {
+    "id": 9,
+    "name": "Blastoise",
+    "slug": "blastoise",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 85.5,
+    "base_experience": 239,
+    "abilities": [
+      "Torrent"
+    ],
+    "hidden_ability": "Rain Dish",
+    "stats": {
+      "HP": 79,
+      "Attack": 83,
+      "Defense": 100,
+      "Special Attack": 85,
+      "Special Defense": 105,
+      "Speed": 78
+    },
+    "sprite": "assets/sprites/blastoise.png",
+    "cry": "assets/cries/009_blastoise.ogg",
+    "audio_path": "assets/cries/009_blastoise.ogg",
+    "categoria_es": "Pokémon Armazón",
+    "descripcion_es": "Para acabar con su enemigo, lo aplasta con el peso de su cuerpo. En momentos de apuro, se esconde en el caparazón.",
+    "voice_path": "assets/voices/009_blastoise.mp3"
+  },
+  "Bulbasaur": {
+    "id": 1,
+    "name": "Bulbasaur",
+    "slug": "bulbasaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 0.7,
+    "weight_kg": 6.9,
+    "base_experience": 64,
+    "abilities": [
+      "Overgrow"
+    ],
+    "hidden_ability": "Chlorophyll",
+    "stats": {
+      "HP": 45,
+      "Attack": 49,
+      "Defense": 49,
+      "Special Attack": 65,
+      "Special Defense": 65,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/bulbasaur.png",
+    "cry": "assets/cries/001_bulbasaur.ogg",
+    "audio_path": "assets/cries/001_bulbasaur.ogg",
+    "categoria_es": "Pokémon Semilla",
+    "descripcion_es": "Una rara semilla le fue plantada en el lomo al nacer. La planta brota y crece con este Pokémon.",
+    "voice_path": "assets/voices/001_bulbasaur.mp3"
+  },
+  "Butterfree": {
+    "id": 12,
+    "name": "Butterfree",
+    "slug": "butterfree",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 32.0,
+    "base_experience": 178,
+    "abilities": [
+      "Compound Eyes"
+    ],
+    "hidden_ability": "Tinted Lens",
+    "stats": {
+      "HP": 60,
+      "Attack": 45,
+      "Defense": 50,
+      "Special Attack": 90,
+      "Special Defense": 80,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/butterfree.png",
+    "cry": "assets/cries/012_butterfree.ogg",
+    "audio_path": "assets/cries/012_butterfree.ogg",
+    "categoria_es": "Pokémon Mariposa",
+    "descripcion_es": "Adora el néctar de las flores. Puede localizar hasta las más pequeñas cantidades de polen.",
+    "voice_path": "assets/voices/012_butterfree.mp3"
+  },
+  "Caterpie": {
+    "id": 10,
+    "name": "Caterpie",
+    "slug": "caterpie",
+    "types": [
+      "Bug"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 2.9,
+    "base_experience": 39,
+    "abilities": [
+      "Shield Dust"
+    ],
+    "hidden_ability": "Run Away",
+    "stats": {
+      "HP": 45,
+      "Attack": 30,
+      "Defense": 35,
+      "Special Attack": 20,
+      "Special Defense": 20,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/caterpie.png",
+    "cry": "assets/cries/010_caterpie.ogg",
+    "audio_path": "assets/cries/010_caterpie.ogg",
+    "categoria_es": "Pokémon Gusano",
+    "descripcion_es": "Para protegerse despide un hedor horrible de sus antenas, con el que repele a sus enemigos.",
+    "voice_path": "assets/voices/010_caterpie.mp3"
+  },
+  "Chansey": {
+    "id": 113,
+    "name": "Chansey",
+    "slug": "chansey",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 34.6,
+    "base_experience": 395,
+    "abilities": [
+      "Natural Cure",
+      "Serene Grace"
+    ],
+    "hidden_ability": "Healer",
+    "stats": {
+      "HP": 250,
+      "Attack": 5,
+      "Defense": 5,
+      "Special Attack": 35,
+      "Special Defense": 105,
+      "Speed": 50
+    },
+    "sprite": "assets/sprites/chansey.png",
+    "cry": "assets/cries/113_chansey.ogg",
+    "audio_path": "assets/cries/113_chansey.ogg",
+    "categoria_es": "Pokémon Huevo",
+    "descripcion_es": "Se dice que reparte felicidad. Se caracteriza por su compasión y reparte sus huevos entre la gente herida.",
+    "voice_path": "assets/voices/113_chansey.mp3"
+  },
+  "Charizard": {
+    "id": 6,
+    "name": "Charizard",
+    "slug": "charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "height_m": 1.7,
+    "weight_kg": 90.5,
+    "base_experience": 240,
+    "abilities": [
+      "Blaze"
+    ],
+    "hidden_ability": "Solar Power",
+    "stats": {
+      "HP": 78,
+      "Attack": 84,
+      "Defense": 78,
+      "Special Attack": 109,
+      "Special Defense": 85,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/charizard.png",
+    "cry": "assets/cries/006_charizard.ogg",
+    "audio_path": "assets/cries/006_charizard.ogg",
+    "categoria_es": "Pokémon Llama",
+    "descripcion_es": "Cuando lanza una descarga de fuego supercaliente, la roja llama de su cola brilla más intensamente.",
+    "voice_path": "assets/voices/006_charizard.mp3"
+  },
+  "Charmander": {
+    "id": 4,
+    "name": "Charmander",
+    "slug": "charmander",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 8.5,
+    "base_experience": 62,
+    "abilities": [
+      "Blaze"
+    ],
+    "hidden_ability": "Solar Power",
+    "stats": {
+      "HP": 39,
+      "Attack": 52,
+      "Defense": 43,
+      "Special Attack": 60,
+      "Special Defense": 50,
+      "Speed": 65
+    },
+    "sprite": "assets/sprites/charmander.png",
+    "cry": "assets/cries/004_charmander.ogg",
+    "audio_path": "assets/cries/004_charmander.ogg",
+    "categoria_es": "Pokémon Lagartija",
+    "descripcion_es": "La llama de su cola indica la fuerza vital de Charmander. Será brillante si está sano.",
+    "voice_path": "assets/voices/004_charmander.mp3"
+  },
+  "Charmeleon": {
+    "id": 5,
+    "name": "Charmeleon",
+    "slug": "charmeleon",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 19.0,
+    "base_experience": 142,
+    "abilities": [
+      "Blaze"
+    ],
+    "hidden_ability": "Solar Power",
+    "stats": {
+      "HP": 58,
+      "Attack": 64,
+      "Defense": 58,
+      "Special Attack": 80,
+      "Special Defense": 65,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/charmeleon.png",
+    "cry": "assets/cries/005_charmeleon.ogg",
+    "audio_path": "assets/cries/005_charmeleon.ogg",
+    "categoria_es": "Pokémon Llama",
+    "descripcion_es": "Suele usar la cola para derribar a su rival. Cuando lo tira, se vale de sus afiladas garras para acabar con él.",
+    "voice_path": "assets/voices/005_charmeleon.mp3"
+  },
+  "Clefable": {
+    "id": 36,
+    "name": "Clefable",
+    "slug": "clefable",
+    "types": [
+      "Fairy"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 40.0,
+    "base_experience": 217,
+    "abilities": [
+      "Cute Charm",
+      "Magic Guard"
+    ],
+    "hidden_ability": "Unaware",
+    "stats": {
+      "HP": 95,
+      "Attack": 70,
+      "Defense": 73,
+      "Special Attack": 95,
+      "Special Defense": 90,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/clefable.png",
+    "cry": "assets/cries/036_clefable.ogg",
+    "audio_path": "assets/cries/036_clefable.ogg",
+    "categoria_es": "Pokémon Hada",
+    "descripcion_es": "Su oído es tan agudo que puede oír una aguja caer a 1 km. Vive en montañas solitarias.",
+    "voice_path": "assets/voices/036_clefable.mp3"
+  },
+  "Clefairy": {
+    "id": 35,
+    "name": "Clefairy",
+    "slug": "clefairy",
+    "types": [
+      "Fairy"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 7.5,
+    "base_experience": 113,
+    "abilities": [
+      "Cute Charm",
+      "Magic Guard"
+    ],
+    "hidden_ability": "Friend Guard",
+    "stats": {
+      "HP": 70,
+      "Attack": 45,
+      "Defense": 48,
+      "Special Attack": 60,
+      "Special Defense": 65,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/clefairy.png",
+    "cry": "assets/cries/035_clefairy.ogg",
+    "audio_path": "assets/cries/035_clefairy.ogg",
+    "categoria_es": "Pokémon Hada",
+    "descripcion_es": "Se dice que la felicidad llegará a quien vea a un grupo de Clefairy bailando a la luz de la luna llena.",
+    "voice_path": "assets/voices/035_clefairy.mp3"
+  },
+  "Cloyster": {
+    "id": 91,
+    "name": "Cloyster",
+    "slug": "cloyster",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 132.5,
+    "base_experience": 184,
+    "abilities": [
+      "Shell Armor",
+      "Skill Link"
+    ],
+    "hidden_ability": "Overcoat",
+    "stats": {
+      "HP": 50,
+      "Attack": 95,
+      "Defense": 180,
+      "Special Attack": 85,
+      "Special Defense": 45,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/cloyster.png",
+    "cry": "assets/cries/091_cloyster.ogg",
+    "audio_path": "assets/cries/091_cloyster.ogg",
+    "categoria_es": "Pokémon Bivalvo",
+    "descripcion_es": "A los Cloyster que viven en las fuertes corrientes marinas les crecen largas y afiladas púas en la concha.",
+    "voice_path": "assets/voices/091_cloyster.mp3"
+  },
+  "Cubone": {
+    "id": 104,
+    "name": "Cubone",
+    "slug": "cubone",
+    "types": [
+      "Ground"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 6.5,
+    "base_experience": 64,
+    "abilities": [
+      "Rock Head",
+      "Lightning Rod"
+    ],
+    "hidden_ability": "Battle Armor",
+    "stats": {
+      "HP": 50,
+      "Attack": 50,
+      "Defense": 95,
+      "Special Attack": 40,
+      "Special Defense": 50,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/cubone.png",
+    "cry": "assets/cries/104_cubone.ogg",
+    "audio_path": "assets/cries/104_cubone.ogg",
+    "categoria_es": "Pokémon Solitario",
+    "descripcion_es": "Lleva puesto el cráneo de su madre. Cuando se siente solo se pone a gritar muy fuerte.",
+    "voice_path": "assets/voices/104_cubone.mp3"
+  },
+  "Dewgong": {
+    "id": 87,
+    "name": "Dewgong",
+    "slug": "dewgong",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "height_m": 1.7,
+    "weight_kg": 120.0,
+    "base_experience": 166,
+    "abilities": [
+      "Thick Fat",
+      "Hydration"
+    ],
+    "hidden_ability": "Ice Body",
+    "stats": {
+      "HP": 90,
+      "Attack": 70,
+      "Defense": 80,
+      "Special Attack": 70,
+      "Special Defense": 95,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/dewgong.png",
+    "cry": "assets/cries/087_dewgong.ogg",
+    "audio_path": "assets/cries/087_dewgong.ogg",
+    "categoria_es": "Pokémon León Marino",
+    "descripcion_es": "Está recubierto de un luminoso pelaje blanco. Este Pokémon aumenta su actividad cuando bajan las temperaturas.",
+    "voice_path": "assets/voices/087_dewgong.mp3"
+  },
+  "Diglett": {
+    "id": 50,
+    "name": "Diglett",
+    "slug": "diglett",
+    "types": [
+      "Ground"
+    ],
+    "height_m": 0.2,
+    "weight_kg": 0.8,
+    "base_experience": 53,
+    "abilities": [
+      "Sand Veil",
+      "Arena Trap"
+    ],
+    "hidden_ability": "Sand Force",
+    "stats": {
+      "HP": 10,
+      "Attack": 55,
+      "Defense": 25,
+      "Special Attack": 35,
+      "Special Defense": 45,
+      "Speed": 95
+    },
+    "sprite": "assets/sprites/diglett.png",
+    "cry": "assets/cries/050_diglett.ogg",
+    "audio_path": "assets/cries/050_diglett.ogg",
+    "categoria_es": "Pokémon Topo",
+    "descripcion_es": "Vive un metro por debajo del suelo, donde se alimenta de raíces. También aparece en la superficie.",
+    "voice_path": "assets/voices/050_diglett.mp3"
+  },
+  "Ditto": {
+    "id": 132,
+    "name": "Ditto",
+    "slug": "ditto",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 4.0,
+    "base_experience": 101,
+    "abilities": [
+      "Limber"
+    ],
+    "hidden_ability": "Imposter",
+    "stats": {
+      "HP": 48,
+      "Attack": 48,
+      "Defense": 48,
+      "Special Attack": 48,
+      "Special Defense": 48,
+      "Speed": 48
+    },
+    "sprite": "assets/sprites/ditto.png",
+    "cry": "assets/cries/132_ditto.ogg",
+    "audio_path": "assets/cries/132_ditto.ogg",
+    "categoria_es": "Pokémon Transformación",
+    "descripcion_es": "Puede alterar por completo su estructura celular para emular cualquier objeto que vea.",
+    "voice_path": "assets/voices/132_ditto.mp3"
+  },
+  "Dodrio": {
+    "id": 85,
+    "name": "Dodrio",
+    "slug": "dodrio",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 1.8,
+    "weight_kg": 85.2,
+    "base_experience": 165,
+    "abilities": [
+      "Run Away",
+      "Early Bird"
+    ],
+    "hidden_ability": "Tangled Feet",
+    "stats": {
+      "HP": 60,
+      "Attack": 110,
+      "Defense": 70,
+      "Special Attack": 60,
+      "Special Defense": 60,
+      "Speed": 110
+    },
+    "sprite": "assets/sprites/dodrio.png",
+    "cry": "assets/cries/085_dodrio.ogg",
+    "audio_path": "assets/cries/085_dodrio.ogg",
+    "categoria_es": "Pokémon Ave Triple",
+    "descripcion_es": "Más vale no perder de vista ninguna de las tres cabezas. De lo contrario, el número de picotazos será enorme.",
+    "voice_path": "assets/voices/085_dodrio.mp3"
+  },
+  "Doduo": {
+    "id": 84,
+    "name": "Doduo",
+    "slug": "doduo",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 1.4,
+    "weight_kg": 39.2,
+    "base_experience": 62,
+    "abilities": [
+      "Run Away",
+      "Early Bird"
+    ],
+    "hidden_ability": "Tangled Feet",
+    "stats": {
+      "HP": 35,
+      "Attack": 85,
+      "Defense": 45,
+      "Special Attack": 35,
+      "Special Defense": 35,
+      "Speed": 75
+    },
+    "sprite": "assets/sprites/doduo.png",
+    "cry": "assets/cries/084_doduo.ogg",
+    "audio_path": "assets/cries/084_doduo.ogg",
+    "categoria_es": "Pokémon Ave Gemela",
+    "descripcion_es": "Este Pokémon de dos cabezas es el resultado de una mutación. Cuando corre, puede alcanzar casi 100 km por hora.",
+    "voice_path": "assets/voices/084_doduo.mp3"
+  },
+  "Dragonair": {
+    "id": 148,
+    "name": "Dragonair",
+    "slug": "dragonair",
+    "types": [
+      "Dragon"
+    ],
+    "height_m": 4.0,
+    "weight_kg": 16.5,
+    "base_experience": 147,
+    "abilities": [
+      "Shed Skin"
+    ],
+    "hidden_ability": "Marvel Scale",
+    "stats": {
+      "HP": 61,
+      "Attack": 84,
+      "Defense": 65,
+      "Special Attack": 70,
+      "Special Defense": 70,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/dragonair.png",
+    "cry": "assets/cries/148_dragonair.ogg",
+    "audio_path": "assets/cries/148_dragonair.ogg",
+    "categoria_es": "Pokémon Dragón",
+    "descripcion_es": "Sus cristalinos orbes parecen darle al Pokémon el poder de controlar el clima libremente.",
+    "voice_path": "assets/voices/148_dragonair.mp3"
+  },
+  "Dragonite": {
+    "id": 149,
+    "name": "Dragonite",
+    "slug": "dragonite",
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "height_m": 2.2,
+    "weight_kg": 210.0,
+    "base_experience": 270,
+    "abilities": [
+      "Inner Focus"
+    ],
+    "hidden_ability": "Multiscale",
+    "stats": {
+      "HP": 91,
+      "Attack": 134,
+      "Defense": 95,
+      "Special Attack": 100,
+      "Special Defense": 100,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/dragonite.png",
+    "cry": "assets/cries/149_dragonite.ogg",
+    "audio_path": "assets/cries/149_dragonite.ogg",
+    "categoria_es": "Pokémon Dragón",
+    "descripcion_es": "A pesar del tamaño que tiene y de lo pesado que es, puede volar. Es capaz de dar la vuelta al mundo en solo 16 horas.",
+    "voice_path": "assets/voices/149_dragonite.mp3"
+  },
+  "Dratini": {
+    "id": 147,
+    "name": "Dratini",
+    "slug": "dratini",
+    "types": [
+      "Dragon"
+    ],
+    "height_m": 1.8,
+    "weight_kg": 3.3,
+    "base_experience": 60,
+    "abilities": [
+      "Shed Skin"
+    ],
+    "hidden_ability": "Marvel Scale",
+    "stats": {
+      "HP": 41,
+      "Attack": 64,
+      "Defense": 45,
+      "Special Attack": 50,
+      "Special Defense": 50,
+      "Speed": 50
+    },
+    "sprite": "assets/sprites/dratini.png",
+    "cry": "assets/cries/147_dratini.ogg",
+    "audio_path": "assets/cries/147_dratini.ogg",
+    "categoria_es": "Pokémon Dragón",
+    "descripcion_es": "Se le llama el Pokémon Espejismo porque son muy pocos los que lo han visto. Se encontró su muda.",
+    "voice_path": "assets/voices/147_dratini.mp3"
+  },
+  "Drowzee": {
+    "id": 96,
+    "name": "Drowzee",
+    "slug": "drowzee",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 32.4,
+    "base_experience": 66,
+    "abilities": [
+      "Insomnia",
+      "Forewarn"
+    ],
+    "hidden_ability": "Inner Focus",
+    "stats": {
+      "HP": 60,
+      "Attack": 48,
+      "Defense": 45,
+      "Special Attack": 43,
+      "Special Defense": 90,
+      "Speed": 42
+    },
+    "sprite": "assets/sprites/drowzee.png",
+    "cry": "assets/cries/096_drowzee.ogg",
+    "audio_path": "assets/cries/096_drowzee.ogg",
+    "categoria_es": "Pokémon Hipnosis",
+    "descripcion_es": "Adormece a sus enemigos y se come sus sueños. A veces se pone enfermo si come pesadillas.",
+    "voice_path": "assets/voices/096_drowzee.mp3"
+  },
+  "Dugtrio": {
+    "id": 51,
+    "name": "Dugtrio",
+    "slug": "dugtrio",
+    "types": [
+      "Ground"
+    ],
+    "height_m": 0.7,
+    "weight_kg": 33.3,
+    "base_experience": 149,
+    "abilities": [
+      "Sand Veil",
+      "Arena Trap"
+    ],
+    "hidden_ability": "Sand Force",
+    "stats": {
+      "HP": 35,
+      "Attack": 100,
+      "Defense": 50,
+      "Special Attack": 50,
+      "Special Defense": 70,
+      "Speed": 120
+    },
+    "sprite": "assets/sprites/dugtrio.png",
+    "cry": "assets/cries/051_dugtrio.ogg",
+    "audio_path": "assets/cries/051_dugtrio.ogg",
+    "categoria_es": "Pokémon Topo",
+    "descripcion_es": "En combate, cava la tierra, se esconde y sale de repente para golpear a su rival. Nunca se sabe por dónde puede aparecer.",
+    "voice_path": "assets/voices/051_dugtrio.mp3"
+  },
+  "Eevee": {
+    "id": 133,
+    "name": "Eevee",
+    "slug": "eevee",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 6.5,
+    "base_experience": 65,
+    "abilities": [
+      "Run Away",
+      "Adaptability"
+    ],
+    "hidden_ability": "Anticipation",
+    "stats": {
+      "HP": 55,
+      "Attack": 55,
+      "Defense": 50,
+      "Special Attack": 45,
+      "Special Defense": 65,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/eevee.png",
+    "cry": "assets/cries/133_eevee.ogg",
+    "audio_path": "assets/cries/133_eevee.ogg",
+    "categoria_es": "Pokémon Evolución",
+    "descripcion_es": "Un extraño Pokémon que se adapta a los entornos más hostiles gracias a sus diferentes evoluciones.",
+    "voice_path": "assets/voices/133_eevee.mp3"
+  },
+  "Ekans": {
+    "id": 23,
+    "name": "Ekans",
+    "slug": "ekans",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 2.0,
+    "weight_kg": 6.9,
+    "base_experience": 58,
+    "abilities": [
+      "Intimidate",
+      "Shed Skin"
+    ],
+    "hidden_ability": "Unnerve",
+    "stats": {
+      "HP": 35,
+      "Attack": 60,
+      "Defense": 44,
+      "Special Attack": 40,
+      "Special Defense": 54,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/ekans.png",
+    "cry": "assets/cries/023_ekans.ogg",
+    "audio_path": "assets/cries/023_ekans.ogg",
+    "categoria_es": "Pokémon Serpiente",
+    "descripcion_es": "Cuanto más viejo, más crece este Pokémon. Por la noche, descansa en las ramas de los árboles.",
+    "voice_path": "assets/voices/023_ekans.mp3"
+  },
+  "Electabuzz": {
+    "id": 125,
+    "name": "Electabuzz",
+    "slug": "electabuzz",
+    "types": [
+      "Electric"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 30.0,
+    "base_experience": 172,
+    "abilities": [
+      "Static"
+    ],
+    "hidden_ability": "Vital Spirit",
+    "stats": {
+      "HP": 65,
+      "Attack": 83,
+      "Defense": 57,
+      "Special Attack": 95,
+      "Special Defense": 85,
+      "Speed": 105
+    },
+    "sprite": "assets/sprites/electabuzz.png",
+    "cry": "assets/cries/125_electabuzz.ogg",
+    "audio_path": "assets/cries/125_electabuzz.ogg",
+    "categoria_es": "Pokémon Eléctrico",
+    "descripcion_es": "Por la superficie de su piel corre la electricidad. En la oscuridad, su cuerpo se torna blanquecino.",
+    "voice_path": "assets/voices/125_electabuzz.mp3"
+  },
+  "Electrode": {
+    "id": 101,
+    "name": "Electrode",
+    "slug": "electrode",
+    "types": [
+      "Electric"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 66.6,
+    "base_experience": 172,
+    "abilities": [
+      "Soundproof",
+      "Static"
+    ],
+    "hidden_ability": "Aftermath",
+    "stats": {
+      "HP": 60,
+      "Attack": 50,
+      "Defense": 70,
+      "Special Attack": 80,
+      "Special Defense": 80,
+      "Speed": 150
+    },
+    "sprite": "assets/sprites/electrode.png",
+    "cry": "assets/cries/101_electrode.ogg",
+    "audio_path": "assets/cries/101_electrode.ogg",
+    "categoria_es": "Pokémon Bola",
+    "descripcion_es": "Explotan a la mínima. Por eso se les tiene mucho miedo. Estos Pokémon reciben el mote de Bomba Ball.",
+    "voice_path": "assets/voices/101_electrode.mp3"
+  },
+  "Exeggcute": {
+    "id": 102,
+    "name": "Exeggcute",
+    "slug": "exeggcute",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 2.5,
+    "base_experience": 65,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Harvest",
+    "stats": {
+      "HP": 60,
+      "Attack": 40,
+      "Defense": 80,
+      "Special Attack": 60,
+      "Special Defense": 45,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/exeggcute.png",
+    "cry": "assets/cries/102_exeggcute.ogg",
+    "audio_path": "assets/cries/102_exeggcute.ogg",
+    "categoria_es": "Pokémon Huevo",
+    "descripcion_es": "Estos seis huevos se comunican por telepatía. Si se separan, se pueden reunir rápidamente.",
+    "voice_path": "assets/voices/102_exeggcute.mp3"
+  },
+  "Exeggutor": {
+    "id": 103,
+    "name": "Exeggutor",
+    "slug": "exeggutor",
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "height_m": 2.0,
+    "weight_kg": 120.0,
+    "base_experience": 186,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Harvest",
+    "stats": {
+      "HP": 95,
+      "Attack": 95,
+      "Defense": 85,
+      "Special Attack": 125,
+      "Special Defense": 75,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/exeggutor.png",
+    "cry": "assets/cries/103_exeggutor.ogg",
+    "audio_path": "assets/cries/103_exeggutor.ogg",
+    "categoria_es": "Pokémon Coco",
+    "descripcion_es": "Sus tres cabezas piensan de forma independiente. Sin embargo, son amigas y no suelen discutir nunca.",
+    "voice_path": "assets/voices/103_exeggutor.mp3"
+  },
+  "Farfetchd": {
+    "id": 83,
+    "name": "Farfetchd",
+    "slug": "farfetchd",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 15.0,
+    "base_experience": 132,
+    "abilities": [
+      "Keen Eye",
+      "Inner Focus"
+    ],
+    "hidden_ability": "Defiant",
+    "stats": {
+      "HP": 52,
+      "Attack": 90,
+      "Defense": 55,
+      "Special Attack": 58,
+      "Special Defense": 62,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/farfetchd.png",
+    "cry": "assets/cries/083_farfetchd.ogg",
+    "audio_path": "assets/cries/083_farfetchd.ogg",
+    "categoria_es": "Pokémon Pato Salvaje",
+    "descripcion_es": "El puerro que lleva es su mejor arma. Suele usarlo como espada para cortar cosas.",
+    "voice_path": "assets/voices/083_farfetchd.mp3"
+  },
+  "Fearow": {
+    "id": 22,
+    "name": "Fearow",
+    "slug": "fearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 38.0,
+    "base_experience": 155,
+    "abilities": [
+      "Keen Eye"
+    ],
+    "hidden_ability": "Sniper",
+    "stats": {
+      "HP": 65,
+      "Attack": 90,
+      "Defense": 65,
+      "Special Attack": 61,
+      "Special Defense": 61,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/fearow.png",
+    "cry": "assets/cries/022_fearow.ogg",
+    "audio_path": "assets/cries/022_fearow.ogg",
+    "categoria_es": "Pokémon Pico",
+    "descripcion_es": "Con sus enormes y magníficas alas, puede seguir volando sin tener que aterrizar para descansar.",
+    "voice_path": "assets/voices/022_fearow.mp3"
+  },
+  "Flareon": {
+    "id": 136,
+    "name": "Flareon",
+    "slug": "flareon",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 0.9,
+    "weight_kg": 25.0,
+    "base_experience": 184,
+    "abilities": [
+      "Flash Fire"
+    ],
+    "hidden_ability": "Guts",
+    "stats": {
+      "HP": 65,
+      "Attack": 130,
+      "Defense": 60,
+      "Special Attack": 95,
+      "Special Defense": 110,
+      "Speed": 65
+    },
+    "sprite": "assets/sprites/flareon.png",
+    "cry": "assets/cries/136_flareon.ogg",
+    "audio_path": "assets/cries/136_flareon.ogg",
+    "categoria_es": "Pokémon Llama",
+    "descripcion_es": "Almacena llamas en su cuerpo, que alcanza una temperatura de 900 °C antes de un combate.",
+    "voice_path": "assets/voices/136_flareon.mp3"
+  },
+  "Gastly": {
+    "id": 92,
+    "name": "Gastly",
+    "slug": "gastly",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 0.1,
+    "base_experience": 62,
+    "abilities": [
+      "Levitate"
+    ],
+    "hidden_ability": null,
+    "stats": {
+      "HP": 30,
+      "Attack": 35,
+      "Defense": 30,
+      "Special Attack": 100,
+      "Special Defense": 35,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/gastly.png",
+    "cry": "assets/cries/092_gastly.ogg",
+    "audio_path": "assets/cries/092_gastly.ogg",
+    "categoria_es": "Pokémon Gas",
+    "descripcion_es": "Su etéreo cuerpo está hecho de gas. Puede envolver a un oponente de cualquier tamaño hasta ahogarlo.",
+    "voice_path": "assets/voices/092_gastly.mp3"
+  },
+  "Gengar": {
+    "id": 94,
+    "name": "Gengar",
+    "slug": "gengar",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 40.5,
+    "base_experience": 225,
+    "abilities": [
+      "Cursed Body"
+    ],
+    "hidden_ability": null,
+    "stats": {
+      "HP": 60,
+      "Attack": 65,
+      "Defense": 60,
+      "Special Attack": 130,
+      "Special Defense": 75,
+      "Speed": 110
+    },
+    "sprite": "assets/sprites/gengar.png",
+    "cry": "assets/cries/094_gengar.ogg",
+    "audio_path": "assets/cries/094_gengar.ogg",
+    "categoria_es": "Pokémon Sombra",
+    "descripcion_es": "Se esconde entre las sombras. Se dice que donde Gengar acecha, la temperatura baja 5 °C.",
+    "voice_path": "assets/voices/094_gengar.mp3"
+  },
+  "Geodude": {
+    "id": 74,
+    "name": "Geodude",
+    "slug": "geodude",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 20.0,
+    "base_experience": 60,
+    "abilities": [
+      "Rock Head",
+      "Sturdy"
+    ],
+    "hidden_ability": "Sand Veil",
+    "stats": {
+      "HP": 40,
+      "Attack": 80,
+      "Defense": 100,
+      "Special Attack": 30,
+      "Special Defense": 30,
+      "Speed": 20
+    },
+    "sprite": "assets/sprites/geodude.png",
+    "cry": "assets/cries/074_geodude.ogg",
+    "audio_path": "assets/cries/074_geodude.ogg",
+    "categoria_es": "Pokémon Roca",
+    "descripcion_es": "Aparecen en llanos y montañas. Como parecen rocas, la gente se tropieza con ellos o los pisa.",
+    "voice_path": "assets/voices/074_geodude.mp3"
+  },
+  "Gloom": {
+    "id": 44,
+    "name": "Gloom",
+    "slug": "gloom",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 8.6,
+    "base_experience": 138,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Stench",
+    "stats": {
+      "HP": 60,
+      "Attack": 65,
+      "Defense": 70,
+      "Special Attack": 85,
+      "Special Defense": 75,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/gloom.png",
+    "cry": "assets/cries/044_gloom.ogg",
+    "audio_path": "assets/cries/044_gloom.ogg",
+    "categoria_es": "Pokémon Hierbajo",
+    "descripcion_es": "¡Huele bastante mal! De todas formas, una de cada mil personas aprecian su fétido olor.",
+    "voice_path": "assets/voices/044_gloom.mp3"
+  },
+  "Golbat": {
+    "id": 42,
+    "name": "Golbat",
+    "slug": "golbat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 55.0,
+    "base_experience": 159,
+    "abilities": [
+      "Inner Focus"
+    ],
+    "hidden_ability": "Infiltrator",
+    "stats": {
+      "HP": 75,
+      "Attack": 80,
+      "Defense": 70,
+      "Special Attack": 65,
+      "Special Defense": 75,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/golbat.png",
+    "cry": "assets/cries/042_golbat.ogg",
+    "audio_path": "assets/cries/042_golbat.ogg",
+    "categoria_es": "Pokémon Murciélago",
+    "descripcion_es": "Cuando ataque, seguirá chupando energía de su víctima, aunque pese tanto que ya no pueda volar.",
+    "voice_path": "assets/voices/042_golbat.mp3"
+  },
+  "Goldeen": {
+    "id": 118,
+    "name": "Goldeen",
+    "slug": "goldeen",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 15.0,
+    "base_experience": 64,
+    "abilities": [
+      "Swift Swim",
+      "Water Veil"
+    ],
+    "hidden_ability": "Lightning Rod",
+    "stats": {
+      "HP": 45,
+      "Attack": 67,
+      "Defense": 60,
+      "Special Attack": 35,
+      "Special Defense": 50,
+      "Speed": 63
+    },
+    "sprite": "assets/sprites/goldeen.png",
+    "cry": "assets/cries/118_goldeen.ogg",
+    "audio_path": "assets/cries/118_goldeen.ogg",
+    "categoria_es": "Pokémon Pez Color",
+    "descripcion_es": "Nada a una velocidad de cinco nudos. Si siente peligro, golpea con su afilado cuerno.",
+    "voice_path": "assets/voices/118_goldeen.mp3"
+  },
+  "Golduck": {
+    "id": 55,
+    "name": "Golduck",
+    "slug": "golduck",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.7,
+    "weight_kg": 76.6,
+    "base_experience": 175,
+    "abilities": [
+      "Damp",
+      "Cloud Nine"
+    ],
+    "hidden_ability": "Swift Swim",
+    "stats": {
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 78,
+      "Special Attack": 95,
+      "Special Defense": 80,
+      "Speed": 85
+    },
+    "sprite": "assets/sprites/golduck.png",
+    "cry": "assets/cries/055_golduck.ogg",
+    "audio_path": "assets/cries/055_golduck.ogg",
+    "categoria_es": "Pokémon Pato",
+    "descripcion_es": "Aparece en ríos al anochecer. Puede usar poderes telequinéticos si su frente brilla misteriosamente.",
+    "voice_path": "assets/voices/055_golduck.mp3"
+  },
+  "Graveler": {
+    "id": 75,
+    "name": "Graveler",
+    "slug": "graveler",
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 105.0,
+    "base_experience": 137,
+    "abilities": [
+      "Rock Head",
+      "Sturdy"
+    ],
+    "hidden_ability": "Sand Veil",
+    "stats": {
+      "HP": 55,
+      "Attack": 95,
+      "Defense": 115,
+      "Special Attack": 45,
+      "Special Defense": 45,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/graveler.png",
+    "cry": "assets/cries/075_graveler.ogg",
+    "audio_path": "assets/cries/075_graveler.ogg",
+    "categoria_es": "Pokémon Roca",
+    "descripcion_es": "De naturaleza descuidada y libre, no le importa dañarse cuando baja rodando montañas.",
+    "voice_path": "assets/voices/075_graveler.mp3"
+  },
+  "Grimer": {
+    "id": 88,
+    "name": "Grimer",
+    "slug": "grimer",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 0.9,
+    "weight_kg": 30.0,
+    "base_experience": 65,
+    "abilities": [
+      "Stench",
+      "Sticky Hold"
+    ],
+    "hidden_ability": "Poison Touch",
+    "stats": {
+      "HP": 80,
+      "Attack": 80,
+      "Defense": 50,
+      "Special Attack": 40,
+      "Special Defense": 50,
+      "Speed": 25
+    },
+    "sprite": "assets/sprites/grimer.png",
+    "cry": "assets/cries/088_grimer.ogg",
+    "audio_path": "assets/cries/088_grimer.ogg",
+    "categoria_es": "Pokémon Lodo",
+    "descripcion_es": "Nace de lodo alterado al filtrarse en el agua los rayos X reflejados por la Luna. Se alimenta de sustancias desagradables.",
+    "voice_path": "assets/voices/088_grimer.mp3"
+  },
+  "Growlithe": {
+    "id": 58,
+    "name": "Growlithe",
+    "slug": "growlithe",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 0.7,
+    "weight_kg": 19.0,
+    "base_experience": 70,
+    "abilities": [
+      "Intimidate",
+      "Flash Fire"
+    ],
+    "hidden_ability": "Justified",
+    "stats": {
+      "HP": 55,
+      "Attack": 70,
+      "Defense": 45,
+      "Special Attack": 70,
+      "Special Defense": 50,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/growlithe.png",
+    "cry": "assets/cries/058_growlithe.ogg",
+    "audio_path": "assets/cries/058_growlithe.ogg",
+    "categoria_es": "Pokémon Perrito",
+    "descripcion_es": "Es muy agradable y leal. Para ahuyentar al enemigo, se pone a ladrar y a dar bocados.",
+    "voice_path": "assets/voices/058_growlithe.mp3"
+  },
+  "Gyarados": {
+    "id": 130,
+    "name": "Gyarados",
+    "slug": "gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "height_m": 6.5,
+    "weight_kg": 235.0,
+    "base_experience": 189,
+    "abilities": [
+      "Intimidate"
+    ],
+    "hidden_ability": "Moxie",
+    "stats": {
+      "HP": 95,
+      "Attack": 125,
+      "Defense": 79,
+      "Special Attack": 60,
+      "Special Defense": 100,
+      "Speed": 81
+    },
+    "sprite": "assets/sprites/gyarados.png",
+    "cry": "assets/cries/130_gyarados.ogg",
+    "audio_path": "assets/cries/130_gyarados.ogg",
+    "categoria_es": "Pokémon Atrocidad",
+    "descripcion_es": "En la literatura antigua se dice que un Gyarados rebosante de violencia arrasó un poblado.",
+    "voice_path": "assets/voices/130_gyarados.mp3"
+  },
+  "Haunter": {
+    "id": 93,
+    "name": "Haunter",
+    "slug": "haunter",
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 0.1,
+    "base_experience": 142,
+    "abilities": [
+      "Levitate"
+    ],
+    "hidden_ability": null,
+    "stats": {
+      "HP": 45,
+      "Attack": 50,
+      "Defense": 45,
+      "Special Attack": 115,
+      "Special Defense": 55,
+      "Speed": 95
+    },
+    "sprite": "assets/sprites/haunter.png",
+    "cry": "assets/cries/093_haunter.ogg",
+    "audio_path": "assets/cries/093_haunter.ogg",
+    "categoria_es": "Pokémon Gas",
+    "descripcion_es": "Cuando tienes la sensación de que te están observando, seguro que es porque Haunter está cerca.",
+    "voice_path": "assets/voices/093_haunter.mp3"
+  },
+  "Hitmonchan": {
+    "id": 107,
+    "name": "Hitmonchan",
+    "slug": "hitmonchan",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 1.4,
+    "weight_kg": 50.2,
+    "base_experience": 159,
+    "abilities": [
+      "Keen Eye",
+      "Iron Fist"
+    ],
+    "hidden_ability": "Inner Focus",
+    "stats": {
+      "HP": 50,
+      "Attack": 105,
+      "Defense": 79,
+      "Special Attack": 35,
+      "Special Defense": 110,
+      "Speed": 76
+    },
+    "sprite": "assets/sprites/hitmonchan.png",
+    "cry": "assets/cries/107_hitmonchan.ogg",
+    "audio_path": "assets/cries/107_hitmonchan.ogg",
+    "categoria_es": "Pokémon Puñetazo",
+    "descripcion_es": "Los potentes golpes de sus brazos pueden pulverizar el hormigón. Descansa tras luchar tres minutos.",
+    "voice_path": "assets/voices/107_hitmonchan.mp3"
+  },
+  "Hitmonlee": {
+    "id": 106,
+    "name": "Hitmonlee",
+    "slug": "hitmonlee",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 49.8,
+    "base_experience": 159,
+    "abilities": [
+      "Limber",
+      "Reckless"
+    ],
+    "hidden_ability": "Unburden",
+    "stats": {
+      "HP": 50,
+      "Attack": 120,
+      "Defense": 53,
+      "Special Attack": 35,
+      "Special Defense": 110,
+      "Speed": 87
+    },
+    "sprite": "assets/sprites/hitmonlee.png",
+    "cry": "assets/cries/106_hitmonlee.ogg",
+    "audio_path": "assets/cries/106_hitmonlee.ogg",
+    "categoria_es": "Pokémon Patada",
+    "descripcion_es": "Encoge y estira las patas a su antojo. Cuando las estira, es capaz de propinar una buena patada al enemigo.",
+    "voice_path": "assets/voices/106_hitmonlee.mp3"
+  },
+  "Horsea": {
+    "id": 116,
+    "name": "Horsea",
+    "slug": "horsea",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 8.0,
+    "base_experience": 59,
+    "abilities": [
+      "Swift Swim",
+      "Sniper"
+    ],
+    "hidden_ability": "Damp",
+    "stats": {
+      "HP": 30,
+      "Attack": 40,
+      "Defense": 70,
+      "Special Attack": 70,
+      "Special Defense": 25,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/horsea.png",
+    "cry": "assets/cries/116_horsea.ogg",
+    "audio_path": "assets/cries/116_horsea.ogg",
+    "categoria_es": "Pokémon Dragón",
+    "descripcion_es": "Es famoso por derribar a bichos voladores lanzando tinta desde la superficie del agua.",
+    "voice_path": "assets/voices/116_horsea.mp3"
+  },
+  "Hypno": {
+    "id": 97,
+    "name": "Hypno",
+    "slug": "hypno",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 75.6,
+    "base_experience": 169,
+    "abilities": [
+      "Insomnia",
+      "Forewarn"
+    ],
+    "hidden_ability": "Inner Focus",
+    "stats": {
+      "HP": 85,
+      "Attack": 73,
+      "Defense": 70,
+      "Special Attack": 73,
+      "Special Defense": 115,
+      "Speed": 67
+    },
+    "sprite": "assets/sprites/hypno.png",
+    "cry": "assets/cries/097_hypno.ogg",
+    "audio_path": "assets/cries/097_hypno.ogg",
+    "categoria_es": "Pokémon Hipnosis",
+    "descripcion_es": "Lleva un péndulo en la mano. Una vez, hizo desaparecer a un niño al que había hipnotizado.",
+    "voice_path": "assets/voices/097_hypno.mp3"
+  },
+  "Ivysaur": {
+    "id": 2,
+    "name": "Ivysaur",
+    "slug": "ivysaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 13.0,
+    "base_experience": 142,
+    "abilities": [
+      "Overgrow"
+    ],
+    "hidden_ability": "Chlorophyll",
+    "stats": {
+      "HP": 60,
+      "Attack": 62,
+      "Defense": 63,
+      "Special Attack": 80,
+      "Special Defense": 80,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/ivysaur.png",
+    "cry": "assets/cries/002_ivysaur.ogg",
+    "audio_path": "assets/cries/002_ivysaur.ogg",
+    "categoria_es": "Pokémon Semilla",
+    "descripcion_es": "Este Pokémon tiene un bulbo en el lomo. Dicen que, al absorber nutrientes, el bulbo se transforma en una flor grande.",
+    "voice_path": "assets/voices/002_ivysaur.mp3"
+  },
+  "Jigglypuff": {
+    "id": 39,
+    "name": "Jigglypuff",
+    "slug": "jigglypuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "height_m": 0.5,
+    "weight_kg": 5.5,
+    "base_experience": 95,
+    "abilities": [
+      "Cute Charm",
+      "Competitive"
+    ],
+    "hidden_ability": "Friend Guard",
+    "stats": {
+      "HP": 115,
+      "Attack": 45,
+      "Defense": 20,
+      "Special Attack": 45,
+      "Special Defense": 25,
+      "Speed": 20
+    },
+    "sprite": "assets/sprites/jigglypuff.png",
+    "cry": "assets/cries/039_jigglypuff.ogg",
+    "audio_path": "assets/cries/039_jigglypuff.ogg",
+    "categoria_es": "Pokémon Globo",
+    "descripcion_es": "Cautiva con la mirada a su enemigo y hace que se quede profundamente dormido mientras entona una dulce melodía.",
+    "voice_path": "assets/voices/039_jigglypuff.mp3"
+  },
+  "Jolteon": {
+    "id": 135,
+    "name": "Jolteon",
+    "slug": "jolteon",
+    "types": [
+      "Electric"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 24.5,
+    "base_experience": 184,
+    "abilities": [
+      "Volt Absorb"
+    ],
+    "hidden_ability": "Quick Feet",
+    "stats": {
+      "HP": 65,
+      "Attack": 65,
+      "Defense": 60,
+      "Special Attack": 110,
+      "Special Defense": 95,
+      "Speed": 130
+    },
+    "sprite": "assets/sprites/jolteon.png",
+    "cry": "assets/cries/135_jolteon.ogg",
+    "audio_path": "assets/cries/135_jolteon.ogg",
+    "categoria_es": "Pokémon Relámpago",
+    "descripcion_es": "Todos los pelos de su cuerpo se ponen de punta si empieza a cargarse de electricidad.",
+    "voice_path": "assets/voices/135_jolteon.mp3"
+  },
+  "Jynx": {
+    "id": 124,
+    "name": "Jynx",
+    "slug": "jynx",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "height_m": 1.4,
+    "weight_kg": 40.6,
+    "base_experience": 159,
+    "abilities": [
+      "Oblivious",
+      "Forewarn"
+    ],
+    "hidden_ability": "Dry Skin",
+    "stats": {
+      "HP": 65,
+      "Attack": 50,
+      "Defense": 35,
+      "Special Attack": 115,
+      "Special Defense": 95,
+      "Speed": 95
+    },
+    "sprite": "assets/sprites/jynx.png",
+    "cry": "assets/cries/124_jynx.ogg",
+    "audio_path": "assets/cries/124_jynx.ogg",
+    "categoria_es": "Pokémon Forma Humana",
+    "descripcion_es": "Camina moviendo las caderas de forma llamativa. Puede hacer que la gente baile a su ritmo.",
+    "voice_path": "assets/voices/124_jynx.mp3"
+  },
+  "Kabutops": {
+    "id": 141,
+    "name": "Kabutops",
+    "slug": "kabutops",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 40.5,
+    "base_experience": 173,
+    "abilities": [
+      "Swift Swim",
+      "Battle Armor"
+    ],
+    "hidden_ability": "Weak Armor",
+    "stats": {
+      "HP": 60,
+      "Attack": 115,
+      "Defense": 105,
+      "Special Attack": 65,
+      "Special Defense": 70,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/kabutops.png",
+    "cry": "assets/cries/141_kabutops.ogg",
+    "audio_path": "assets/cries/141_kabutops.ogg",
+    "categoria_es": "Pokémon Armazón",
+    "descripcion_es": "Repliega sus extremidades en el agua para hacerse más compacto, y mueve su concha para nadar rápido.",
+    "voice_path": "assets/voices/141_kabutops.mp3"
+  },
+  "Kadabra": {
+    "id": 64,
+    "name": "Kadabra",
+    "slug": "kadabra",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 56.5,
+    "base_experience": 140,
+    "abilities": [
+      "Synchronize",
+      "Inner Focus"
+    ],
+    "hidden_ability": "Magic Guard",
+    "stats": {
+      "HP": 40,
+      "Attack": 35,
+      "Defense": 30,
+      "Special Attack": 120,
+      "Special Defense": 70,
+      "Speed": 105
+    },
+    "sprite": "assets/sprites/kadabra.png",
+    "cry": "assets/cries/064_kadabra.ogg",
+    "audio_path": "assets/cries/064_kadabra.ogg",
+    "categoria_es": "Pokémon Psi",
+    "descripcion_es": "Cuando utiliza su poder psíquico, emite poderosas ondas alfa que pueden destruir dispositivos.",
+    "voice_path": "assets/voices/064_kadabra.mp3"
+  },
+  "Kakuna": {
+    "id": 14,
+    "name": "Kakuna",
+    "slug": "kakuna",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 10.0,
+    "base_experience": 72,
+    "abilities": [
+      "Shed Skin"
+    ],
+    "hidden_ability": null,
+    "stats": {
+      "HP": 45,
+      "Attack": 25,
+      "Defense": 50,
+      "Special Attack": 25,
+      "Special Defense": 25,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/kakuna.png",
+    "cry": "assets/cries/014_kakuna.ogg",
+    "audio_path": "assets/cries/014_kakuna.ogg",
+    "categoria_es": "Pokémon Capullo",
+    "descripcion_es": "Casi incapaz de moverse, este Pokémon solo puede endurecer su caparazón para protegerse.",
+    "voice_path": "assets/voices/014_kakuna.mp3"
+  },
+  "Kangaskhan": {
+    "id": 115,
+    "name": "Kangaskhan",
+    "slug": "kangaskhan",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 2.2,
+    "weight_kg": 80.0,
+    "base_experience": 172,
+    "abilities": [
+      "Early Bird",
+      "Scrappy"
+    ],
+    "hidden_ability": "Inner Focus",
+    "stats": {
+      "HP": 105,
+      "Attack": 95,
+      "Defense": 80,
+      "Special Attack": 40,
+      "Special Defense": 80,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/kangaskhan.png",
+    "cry": "assets/cries/115_kangaskhan.ogg",
+    "audio_path": "assets/cries/115_kangaskhan.ogg",
+    "categoria_es": "Pokémon Maternal",
+    "descripcion_es": "Lleva a su cría en la bolsa de su panza. Solo deja que su cría salga a jugar cuando no siente peligro.",
+    "voice_path": "assets/voices/115_kangaskhan.mp3"
+  },
+  "Kingler": {
+    "id": 99,
+    "name": "Kingler",
+    "slug": "kingler",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 60.0,
+    "base_experience": 166,
+    "abilities": [
+      "Hyper Cutter",
+      "Shell Armor"
+    ],
+    "hidden_ability": "Sheer Force",
+    "stats": {
+      "HP": 55,
+      "Attack": 130,
+      "Defense": 115,
+      "Special Attack": 50,
+      "Special Defense": 50,
+      "Speed": 75
+    },
+    "sprite": "assets/sprites/kingler.png",
+    "cry": "assets/cries/099_kingler.ogg",
+    "audio_path": "assets/cries/099_kingler.ogg",
+    "categoria_es": "Pokémon Tenaza",
+    "descripcion_es": "La pinza tan grande que tiene posee una fuerza de 10 000 caballos de potencia. Pero, por su gran tamaño, cuesta moverla.",
+    "voice_path": "assets/voices/099_kingler.mp3"
+  },
+  "Koffing": {
+    "id": 109,
+    "name": "Koffing",
+    "slug": "koffing",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 1.0,
+    "base_experience": 68,
+    "abilities": [
+      "Levitate",
+      "Neutralizing Gas"
+    ],
+    "hidden_ability": "Stench",
+    "stats": {
+      "HP": 40,
+      "Attack": 65,
+      "Defense": 95,
+      "Special Attack": 60,
+      "Special Defense": 45,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/koffing.png",
+    "cry": "assets/cries/109_koffing.ogg",
+    "audio_path": "assets/cries/109_koffing.ogg",
+    "categoria_es": "Pokémon Gas Venenoso",
+    "descripcion_es": "Tiene forma de globo y es muy ligero. Está compuesto por gases tóxicos y apesta.",
+    "voice_path": "assets/voices/109_koffing.mp3"
+  },
+  "Lapras": {
+    "id": 131,
+    "name": "Lapras",
+    "slug": "lapras",
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "height_m": 2.5,
+    "weight_kg": 220.0,
+    "base_experience": 187,
+    "abilities": [
+      "Water Absorb",
+      "Shell Armor"
+    ],
+    "hidden_ability": "Hydration",
+    "stats": {
+      "HP": 130,
+      "Attack": 85,
+      "Defense": 80,
+      "Special Attack": 85,
+      "Special Defense": 95,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/lapras.png",
+    "cry": "assets/cries/131_lapras.ogg",
+    "audio_path": "assets/cries/131_lapras.ogg",
+    "categoria_es": "Pokémon Transporte",
+    "descripcion_es": "Son buenos de corazón. Muchos fueron capturados por ser tan pacíficos. Ahora hay muchos menos.",
+    "voice_path": "assets/voices/131_lapras.mp3"
+  },
+  "Lickitung": {
+    "id": 108,
+    "name": "Lickitung",
+    "slug": "lickitung",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 65.5,
+    "base_experience": 77,
+    "abilities": [
+      "Own Tempo",
+      "Oblivious"
+    ],
+    "hidden_ability": "Cloud Nine",
+    "stats": {
+      "HP": 90,
+      "Attack": 55,
+      "Defense": 75,
+      "Special Attack": 60,
+      "Special Defense": 75,
+      "Speed": 30
+    },
+    "sprite": "assets/sprites/lickitung.png",
+    "cry": "assets/cries/108_lickitung.ogg",
+    "audio_path": "assets/cries/108_lickitung.ogg",
+    "categoria_es": "Pokémon Lametazo",
+    "descripcion_es": "Su larga lengua, recubierta de saliva pegajosa, se pega a todo, por lo que es muy útil.",
+    "voice_path": "assets/voices/108_lickitung.mp3"
+  },
+  "Machamp": {
+    "id": 68,
+    "name": "Machamp",
+    "slug": "machamp",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 130.0,
+    "base_experience": 227,
+    "abilities": [
+      "Guts",
+      "No Guard"
+    ],
+    "hidden_ability": "Steadfast",
+    "stats": {
+      "HP": 90,
+      "Attack": 130,
+      "Defense": 80,
+      "Special Attack": 65,
+      "Special Defense": 85,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/machamp.png",
+    "cry": "assets/cries/068_machamp.ogg",
+    "audio_path": "assets/cries/068_machamp.ogg",
+    "categoria_es": "Pokémon Superpoder",
+    "descripcion_es": "Tiene cuatro brazos tan bien desarrollados que puede dar una serie de 1000 puñetazos en cuestión de dos segundos.",
+    "voice_path": "assets/voices/068_machamp.mp3"
+  },
+  "Machoke": {
+    "id": 67,
+    "name": "Machoke",
+    "slug": "machoke",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 70.5,
+    "base_experience": 142,
+    "abilities": [
+      "Guts",
+      "No Guard"
+    ],
+    "hidden_ability": "Steadfast",
+    "stats": {
+      "HP": 80,
+      "Attack": 100,
+      "Defense": 70,
+      "Special Attack": 50,
+      "Special Defense": 60,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/machoke.png",
+    "cry": "assets/cries/067_machoke.ogg",
+    "audio_path": "assets/cries/067_machoke.ogg",
+    "categoria_es": "Pokémon Superpoder",
+    "descripcion_es": "Su musculoso cuerpo es tan fuerte que usa un cinto antifuerza para controlar sus movimientos.",
+    "voice_path": "assets/voices/067_machoke.mp3"
+  },
+  "Machop": {
+    "id": 66,
+    "name": "Machop",
+    "slug": "machop",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 19.5,
+    "base_experience": 61,
+    "abilities": [
+      "Guts",
+      "No Guard"
+    ],
+    "hidden_ability": "Steadfast",
+    "stats": {
+      "HP": 70,
+      "Attack": 80,
+      "Defense": 50,
+      "Special Attack": 35,
+      "Special Defense": 35,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/machop.png",
+    "cry": "assets/cries/066_machop.ogg",
+    "audio_path": "assets/cries/066_machop.ogg",
+    "categoria_es": "Pokémon Superpoder",
+    "descripcion_es": "Levanta un Graveler para mantener sus músculos en forma. Domina todas las artes marciales.",
+    "voice_path": "assets/voices/066_machop.mp3"
+  },
+  "Magikarp": {
+    "id": 129,
+    "name": "Magikarp",
+    "slug": "magikarp",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.9,
+    "weight_kg": 10.0,
+    "base_experience": 40,
+    "abilities": [
+      "Swift Swim"
+    ],
+    "hidden_ability": "Rattled",
+    "stats": {
+      "HP": 20,
+      "Attack": 10,
+      "Defense": 55,
+      "Special Attack": 15,
+      "Special Defense": 20,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/magikarp.png",
+    "cry": "assets/cries/129_magikarp.ogg",
+    "audio_path": "assets/cries/129_magikarp.ogg",
+    "categoria_es": "Pokémon Pez",
+    "descripcion_es": "No es precisamente rápido ni fuerte. Es el Pokémon más debilucho y simplón de todos los que hay.",
+    "voice_path": "assets/voices/129_magikarp.mp3"
+  },
+  "Magmar": {
+    "id": 126,
+    "name": "Magmar",
+    "slug": "magmar",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 44.5,
+    "base_experience": 173,
+    "abilities": [
+      "Flame Body"
+    ],
+    "hidden_ability": "Vital Spirit",
+    "stats": {
+      "HP": 65,
+      "Attack": 95,
+      "Defense": 57,
+      "Special Attack": 100,
+      "Special Defense": 85,
+      "Speed": 93
+    },
+    "sprite": "assets/sprites/magmar.png",
+    "cry": "assets/cries/126_magmar.ogg",
+    "audio_path": "assets/cries/126_magmar.ogg",
+    "categoria_es": "Pokémon Escupefuego",
+    "descripcion_es": "A este Pokémon se lo encontraron cerca de un volcán. Esta criatura ígnea tiene una temperatura corporal de unos 1200 °C.",
+    "voice_path": "assets/voices/126_magmar.mp3"
+  },
+  "Magnemite": {
+    "id": 81,
+    "name": "Magnemite",
+    "slug": "magnemite",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 6.0,
+    "base_experience": 65,
+    "abilities": [
+      "Magnet Pull",
+      "Sturdy"
+    ],
+    "hidden_ability": "Analytic",
+    "stats": {
+      "HP": 25,
+      "Attack": 35,
+      "Defense": 70,
+      "Special Attack": 95,
+      "Special Defense": 55,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/magnemite.png",
+    "cry": "assets/cries/081_magnemite.ogg",
+    "audio_path": "assets/cries/081_magnemite.ogg",
+    "categoria_es": "Pokémon Imán",
+    "descripcion_es": "Las unidades a los lados de su cuerpo generan energía antigravitatoria para mantenerlo en el aire.",
+    "voice_path": "assets/voices/081_magnemite.mp3"
+  },
+  "Magneton": {
+    "id": 82,
+    "name": "Magneton",
+    "slug": "magneton",
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 60.0,
+    "base_experience": 163,
+    "abilities": [
+      "Magnet Pull",
+      "Sturdy"
+    ],
+    "hidden_ability": "Analytic",
+    "stats": {
+      "HP": 50,
+      "Attack": 60,
+      "Defense": 95,
+      "Special Attack": 120,
+      "Special Defense": 70,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/magneton.png",
+    "cry": "assets/cries/082_magneton.ogg",
+    "audio_path": "assets/cries/082_magneton.ogg",
+    "categoria_es": "Pokémon Imán",
+    "descripcion_es": "Lo constituye un grupo de Magnemite. Descarga potentes ondas magnéticas de alto voltaje.",
+    "voice_path": "assets/voices/082_magneton.mp3"
+  },
+  "Mankey": {
+    "id": 56,
+    "name": "Mankey",
+    "slug": "mankey",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 0.5,
+    "weight_kg": 28.0,
+    "base_experience": 61,
+    "abilities": [
+      "Vital Spirit",
+      "Anger Point"
+    ],
+    "hidden_ability": "Defiant",
+    "stats": {
+      "HP": 40,
+      "Attack": 80,
+      "Defense": 35,
+      "Special Attack": 35,
+      "Special Defense": 45,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/mankey.png",
+    "cry": "assets/cries/056_mankey.ogg",
+    "audio_path": "assets/cries/056_mankey.ogg",
+    "categoria_es": "Pokémon Mono Cerdo",
+    "descripcion_es": "Es peligroso acercarse si se enfada sin razón aparente, ya que no distingue entre amigos y enemigos.",
+    "voice_path": "assets/voices/056_mankey.mp3"
+  },
+  "Marowak": {
+    "id": 105,
+    "name": "Marowak",
+    "slug": "marowak",
+    "types": [
+      "Ground"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 45.0,
+    "base_experience": 149,
+    "abilities": [
+      "Rock Head",
+      "Lightning Rod"
+    ],
+    "hidden_ability": "Battle Armor",
+    "stats": {
+      "HP": 60,
+      "Attack": 80,
+      "Defense": 110,
+      "Special Attack": 50,
+      "Special Defense": 80,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/marowak.png",
+    "cry": "assets/cries/105_marowak.ogg",
+    "audio_path": "assets/cries/105_marowak.ogg",
+    "categoria_es": "Pokémon Apilahueso",
+    "descripcion_es": "Es pequeño y siempre ha sido muy débil. Cuando empezó a usar huesos, se volvió más violento.",
+    "voice_path": "assets/voices/105_marowak.mp3"
+  },
+  "Meowth": {
+    "id": 52,
+    "name": "Meowth",
+    "slug": "meowth",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 4.2,
+    "base_experience": 58,
+    "abilities": [
+      "Pickup",
+      "Technician"
+    ],
+    "hidden_ability": "Unnerve",
+    "stats": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Special Attack": 40,
+      "Special Defense": 40,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/meowth.png",
+    "cry": "assets/cries/052_meowth.ogg",
+    "audio_path": "assets/cries/052_meowth.ogg",
+    "categoria_es": "Pokémon Gato Araña",
+    "descripcion_es": "Es de naturaleza nocturna. Le atraen los objetos brillantes.",
+    "voice_path": "assets/voices/052_meowth.mp3"
+  },
+  "Metapod": {
+    "id": 11,
+    "name": "Metapod",
+    "slug": "metapod",
+    "types": [
+      "Bug"
+    ],
+    "height_m": 0.7,
+    "weight_kg": 9.9,
+    "base_experience": 72,
+    "abilities": [
+      "Shed Skin"
+    ],
+    "hidden_ability": null,
+    "stats": {
+      "HP": 50,
+      "Attack": 20,
+      "Defense": 55,
+      "Special Attack": 25,
+      "Special Defense": 25,
+      "Speed": 30
+    },
+    "sprite": "assets/sprites/metapod.png",
+    "cry": "assets/cries/011_metapod.ogg",
+    "audio_path": "assets/cries/011_metapod.ogg",
+    "categoria_es": "Pokémon Capullo",
+    "descripcion_es": "Su frágil cuerpo está recubierto de una coraza dura como el acero. Permanece quieto en su desarrollo.",
+    "voice_path": "assets/voices/011_metapod.mp3"
+  },
+  "Mew": {
+    "id": 151,
+    "name": "Mew",
+    "slug": "mew",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 4.0,
+    "base_experience": 270,
+    "abilities": [
+      "Synchronize"
+    ],
+    "hidden_ability": null,
+    "stats": {
+      "HP": 100,
+      "Attack": 100,
+      "Defense": 100,
+      "Special Attack": 100,
+      "Special Defense": 100,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/mew.png",
+    "cry": "assets/cries/151_mew.ogg",
+    "audio_path": "assets/cries/151_mew.ogg",
+    "categoria_es": "Pokémon Nueva Especie",
+    "descripcion_es": "Varios científicos lo consideran el antecesor de los Pokémon porque usa todo tipo de movimientos.",
+    "voice_path": "assets/voices/151_mew.mp3"
+  },
+  "Mewtwo": {
+    "id": 150,
+    "name": "Mewtwo",
+    "slug": "mewtwo",
+    "types": [
+      "Psychic"
+    ],
+    "height_m": 2.0,
+    "weight_kg": 122.0,
+    "base_experience": 306,
+    "abilities": [
+      "Pressure"
+    ],
+    "hidden_ability": "Unnerve",
+    "stats": {
+      "HP": 106,
+      "Attack": 110,
+      "Defense": 90,
+      "Special Attack": 154,
+      "Special Defense": 90,
+      "Speed": 130
+    },
+    "sprite": "assets/sprites/mewtwo.png",
+    "cry": "assets/cries/150_mewtwo.ogg",
+    "audio_path": "assets/cries/150_mewtwo.ogg",
+    "categoria_es": "Pokémon Genético",
+    "descripcion_es": "Fue creado por un científico tras años de horribles experimentos de ingeniería genética.",
+    "voice_path": "assets/voices/150_mewtwo.mp3"
+  },
+  "Moltres": {
+    "id": 146,
+    "name": "Moltres",
+    "slug": "moltres",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "height_m": 2.0,
+    "weight_kg": 60.0,
+    "base_experience": 261,
+    "abilities": [
+      "Pressure"
+    ],
+    "hidden_ability": "Flame Body",
+    "stats": {
+      "HP": 90,
+      "Attack": 100,
+      "Defense": 90,
+      "Special Attack": 125,
+      "Special Defense": 85,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/moltres.png",
+    "cry": "assets/cries/146_moltres.ogg",
+    "audio_path": "assets/cries/146_moltres.ogg",
+    "categoria_es": "Pokémon Llama",
+    "descripcion_es": "Es más conocido como el legendario pájaro de fuego. Con cada aleteo crea brillantes llamas.",
+    "voice_path": "assets/voices/146_moltres.mp3"
+  },
+  "Mr. Mime": {
+    "id": 122,
+    "name": "Mr. Mime",
+    "slug": "mr-mime",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 54.5,
+    "base_experience": 161,
+    "abilities": [
+      "Soundproof",
+      "Filter"
+    ],
+    "hidden_ability": "Technician",
+    "stats": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 65,
+      "Special Attack": 100,
+      "Special Defense": 120,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/mr-mime.png",
+    "cry": "assets/cries/122_mr-mime.ogg",
+    "audio_path": "assets/cries/122_mr-mime.ogg",
+    "categoria_es": "Pokémon Barrera",
+    "descripcion_es": "Para repeler ataques, solidifica el aire y crea muros invisibles con emanaciones de sus dedos.",
+    "voice_path": "assets/voices/122_mr-mime.mp3"
+  },
+  "Nidoking": {
+    "id": 34,
+    "name": "Nidoking",
+    "slug": "nidoking",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "height_m": 1.4,
+    "weight_kg": 62.0,
+    "base_experience": 227,
+    "abilities": [
+      "Poison Point",
+      "Rivalry"
+    ],
+    "hidden_ability": "Sheer Force",
+    "stats": {
+      "HP": 81,
+      "Attack": 102,
+      "Defense": 77,
+      "Special Attack": 85,
+      "Special Defense": 75,
+      "Speed": 85
+    },
+    "sprite": "assets/sprites/nidoking.png",
+    "cry": "assets/cries/034_nidoking.ogg",
+    "audio_path": "assets/cries/034_nidoking.ogg",
+    "categoria_es": "Pokémon Taladro",
+    "descripcion_es": "Es fácil reconocerlo por tener una dura piel y un gran cuerno lleno de peligrosísimo veneno.",
+    "voice_path": "assets/voices/034_nidoking.mp3"
+  },
+  "Nidoqueen": {
+    "id": 31,
+    "name": "Nidoqueen",
+    "slug": "nidoqueen",
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 60.0,
+    "base_experience": 227,
+    "abilities": [
+      "Poison Point",
+      "Rivalry"
+    ],
+    "hidden_ability": "Sheer Force",
+    "stats": {
+      "HP": 90,
+      "Attack": 92,
+      "Defense": 87,
+      "Special Attack": 75,
+      "Special Defense": 85,
+      "Speed": 76
+    },
+    "sprite": "assets/sprites/nidoqueen.png",
+    "cry": "assets/cries/031_nidoqueen.ogg",
+    "audio_path": "assets/cries/031_nidoqueen.ogg",
+    "categoria_es": "Pokémon Taladro",
+    "descripcion_es": "Usa su cuerpo duro y escamoso para sellar la entrada a su madriguera y protegerse de los depredadores.",
+    "voice_path": "assets/voices/031_nidoqueen.mp3"
+  },
+  "Nidorina": {
+    "id": 30,
+    "name": "Nidorina",
+    "slug": "nidorina",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 20.0,
+    "base_experience": 128,
+    "abilities": [
+      "Poison Point",
+      "Rivalry"
+    ],
+    "hidden_ability": "Hustle",
+    "stats": {
+      "HP": 70,
+      "Attack": 62,
+      "Defense": 67,
+      "Special Attack": 55,
+      "Special Defense": 55,
+      "Speed": 56
+    },
+    "sprite": "assets/sprites/nidorina.png",
+    "cry": "assets/cries/030_nidorina.ogg",
+    "audio_path": "assets/cries/030_nidorina.ogg",
+    "categoria_es": "Pokémon Pin Veneno",
+    "descripcion_es": "Tiene un carácter afable. Emite ondas ultrasónicas para confundir al enemigo.",
+    "voice_path": "assets/voices/030_nidorina.mp3"
+  },
+  "Nidorino": {
+    "id": 33,
+    "name": "Nidorino",
+    "slug": "nidorino",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 0.9,
+    "weight_kg": 19.5,
+    "base_experience": 128,
+    "abilities": [
+      "Poison Point",
+      "Rivalry"
+    ],
+    "hidden_ability": "Hustle",
+    "stats": {
+      "HP": 61,
+      "Attack": 72,
+      "Defense": 57,
+      "Special Attack": 55,
+      "Special Defense": 55,
+      "Speed": 65
+    },
+    "sprite": "assets/sprites/nidorino.png",
+    "cry": "assets/cries/033_nidorino.ogg",
+    "audio_path": "assets/cries/033_nidorino.ogg",
+    "categoria_es": "Pokémon Pin Veneno",
+    "descripcion_es": "Levanta sus grandes orejas para vigilar. Si detecta algo, atacará de inmediato.",
+    "voice_path": "assets/voices/033_nidorino.mp3"
+  },
+  "Ninetales": {
+    "id": 38,
+    "name": "Ninetales",
+    "slug": "ninetales",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 19.9,
+    "base_experience": 177,
+    "abilities": [
+      "Flash Fire"
+    ],
+    "hidden_ability": "Drought",
+    "stats": {
+      "HP": 73,
+      "Attack": 76,
+      "Defense": 75,
+      "Special Attack": 81,
+      "Special Defense": 100,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/ninetales.png",
+    "cry": "assets/cries/038_ninetales.ogg",
+    "audio_path": "assets/cries/038_ninetales.ogg",
+    "categoria_es": "Pokémon Zorro",
+    "descripcion_es": "Tiene nueve colas y un pelaje de color dorado. Dicen que este Pokémon llega a vivir 1000 años.",
+    "voice_path": "assets/voices/038_ninetales.mp3"
+  },
+  "Oddish": {
+    "id": 43,
+    "name": "Oddish",
+    "slug": "oddish",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 0.5,
+    "weight_kg": 5.4,
+    "base_experience": 64,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Run Away",
+    "stats": {
+      "HP": 45,
+      "Attack": 50,
+      "Defense": 55,
+      "Special Attack": 75,
+      "Special Defense": 65,
+      "Speed": 30
+    },
+    "sprite": "assets/sprites/oddish.png",
+    "cry": "assets/cries/043_oddish.ogg",
+    "audio_path": "assets/cries/043_oddish.ogg",
+    "categoria_es": "Pokémon Hierbajo",
+    "descripcion_es": "Durante el día, se agazapa en el frío subsuelo huyendo del sol. La luz de la luna le hace crecer mucho.",
+    "voice_path": "assets/voices/043_oddish.mp3"
+  },
+  "Omanyte": {
+    "id": 138,
+    "name": "Omanyte",
+    "slug": "omanyte",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 7.5,
+    "base_experience": 71,
+    "abilities": [
+      "Swift Swim",
+      "Shell Armor"
+    ],
+    "hidden_ability": "Weak Armor",
+    "stats": {
+      "HP": 35,
+      "Attack": 40,
+      "Defense": 100,
+      "Special Attack": 90,
+      "Special Defense": 55,
+      "Speed": 35
+    },
+    "sprite": "assets/sprites/omanyte.png",
+    "cry": "assets/cries/138_omanyte.ogg",
+    "audio_path": "assets/cries/138_omanyte.ogg",
+    "categoria_es": "Pokémon Espiral",
+    "descripcion_es": "Pokémon prehistórico que vivió en el océano primordial. Para nadar se valía de sus 10 tentáculos.",
+    "voice_path": "assets/voices/138_omanyte.mp3"
+  },
+  "Omastar": {
+    "id": 139,
+    "name": "Omastar",
+    "slug": "omastar",
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 35.0,
+    "base_experience": 173,
+    "abilities": [
+      "Swift Swim",
+      "Shell Armor"
+    ],
+    "hidden_ability": "Weak Armor",
+    "stats": {
+      "HP": 70,
+      "Attack": 60,
+      "Defense": 125,
+      "Special Attack": 115,
+      "Special Defense": 70,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/omastar.png",
+    "cry": "assets/cries/139_omastar.ogg",
+    "audio_path": "assets/cries/139_omastar.ogg",
+    "categoria_es": "Pokémon Espiral",
+    "descripcion_es": "Tiene los tentáculos tan desarrollados que le sirven de manos y pies. Con ellos atrapa a su presa y le da un bocado.",
+    "voice_path": "assets/voices/139_omastar.mp3"
+  },
+  "Parasect": {
+    "id": 47,
+    "name": "Parasect",
+    "slug": "parasect",
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 29.5,
+    "base_experience": 142,
+    "abilities": [
+      "Effect Spore",
+      "Dry Skin"
+    ],
+    "hidden_ability": "Damp",
+    "stats": {
+      "HP": 60,
+      "Attack": 95,
+      "Defense": 80,
+      "Special Attack": 60,
+      "Special Defense": 80,
+      "Speed": 30
+    },
+    "sprite": "assets/sprites/parasect.png",
+    "cry": "assets/cries/047_parasect.ogg",
+    "audio_path": "assets/cries/047_parasect.ogg",
+    "categoria_es": "Pokémon Hongo",
+    "descripcion_es": "Parasect está dominado por una seta parásita mayor que él. Dispersa esporas venenosas.",
+    "voice_path": "assets/voices/047_parasect.mp3"
+  },
+  "Pidgeot": {
+    "id": 18,
+    "name": "Pidgeot",
+    "slug": "pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 39.5,
+    "base_experience": 216,
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "hidden_ability": "Big Pecks",
+    "stats": {
+      "HP": 83,
+      "Attack": 80,
+      "Defense": 75,
+      "Special Attack": 70,
+      "Special Defense": 70,
+      "Speed": 101
+    },
+    "sprite": "assets/sprites/pidgeot.png",
+    "cry": "assets/cries/018_pidgeot.ogg",
+    "audio_path": "assets/cries/018_pidgeot.ogg",
+    "categoria_es": "Pokémon Pájaro",
+    "descripcion_es": "Cuando caza, vuela muy deprisa a ras del agua y sorprende a inocentes presas como Magikarp.",
+    "voice_path": "assets/voices/018_pidgeot.mp3"
+  },
+  "Pidgeotto": {
+    "id": 17,
+    "name": "Pidgeotto",
+    "slug": "pidgeotto",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 30.0,
+    "base_experience": 122,
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "hidden_ability": "Big Pecks",
+    "stats": {
+      "HP": 63,
+      "Attack": 60,
+      "Defense": 55,
+      "Special Attack": 50,
+      "Special Defense": 50,
+      "Speed": 71
+    },
+    "sprite": "assets/sprites/pidgeotto.png",
+    "cry": "assets/cries/017_pidgeotto.ogg",
+    "audio_path": "assets/cries/017_pidgeotto.ogg",
+    "categoria_es": "Pokémon Pájaro",
+    "descripcion_es": "Tiene unas garras desarrolladas. Puede atrapar un Exeggcute y transportarlo desde una distancia de casi 100 km.",
+    "voice_path": "assets/voices/017_pidgeotto.mp3"
+  },
+  "Pidgey": {
+    "id": 16,
+    "name": "Pidgey",
+    "slug": "pidgey",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 1.8,
+    "base_experience": 50,
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet"
+    ],
+    "hidden_ability": "Big Pecks",
+    "stats": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 40,
+      "Special Attack": 35,
+      "Special Defense": 35,
+      "Speed": 56
+    },
+    "sprite": "assets/sprites/pidgey.png",
+    "cry": "assets/cries/016_pidgey.ogg",
+    "audio_path": "assets/cries/016_pidgey.ogg",
+    "categoria_es": "Pokémon Pajarito",
+    "descripcion_es": "Muy común en bosques y selvas. Aletea al nivel del suelo para levantar la gravilla.",
+    "voice_path": "assets/voices/016_pidgey.mp3"
+  },
+  "Pikachu": {
+    "id": 25,
+    "name": "Pikachu",
+    "slug": "pikachu",
+    "types": [
+      "Electric"
+    ],
+    "height_m": 0.4,
+    "weight_kg": 6.0,
+    "base_experience": 112,
+    "abilities": [
+      "Static"
+    ],
+    "hidden_ability": "Lightning Rod",
+    "stats": {
+      "HP": 35,
+      "Attack": 55,
+      "Defense": 40,
+      "Special Attack": 50,
+      "Special Defense": 50,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/pikachu.png",
+    "cry": "assets/cries/025_pikachu.ogg",
+    "audio_path": "assets/cries/025_pikachu.ogg",
+    "categoria_es": "Pokémon Ratón",
+    "descripcion_es": "Levanta su cola para vigilar los alrededores. A veces, puede ser alcanzado por un rayo en esa pose.",
+    "voice_path": "assets/voices/025_pikachu.mp3"
+  },
+  "Pinsir": {
+    "id": 127,
+    "name": "Pinsir",
+    "slug": "pinsir",
+    "types": [
+      "Bug"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 55.0,
+    "base_experience": 175,
+    "abilities": [
+      "Hyper Cutter",
+      "Mold Breaker"
+    ],
+    "hidden_ability": "Moxie",
+    "stats": {
+      "HP": 65,
+      "Attack": 125,
+      "Defense": 100,
+      "Special Attack": 55,
+      "Special Defense": 70,
+      "Speed": 85
+    },
+    "sprite": "assets/sprites/pinsir.png",
+    "cry": "assets/cries/127_pinsir.ogg",
+    "audio_path": "assets/cries/127_pinsir.ogg",
+    "categoria_es": "Pokémon Escarabajo",
+    "descripcion_es": "Atrapa presas con sus pinzas hasta que las parte en dos. Lanza lejos lo que no puede quebrar.",
+    "voice_path": "assets/voices/127_pinsir.mp3"
+  },
+  "Poliwag": {
+    "id": 60,
+    "name": "Poliwag",
+    "slug": "poliwag",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 12.4,
+    "base_experience": 60,
+    "abilities": [
+      "Water Absorb",
+      "Damp"
+    ],
+    "hidden_ability": "Swift Swim",
+    "stats": {
+      "HP": 40,
+      "Attack": 50,
+      "Defense": 40,
+      "Special Attack": 40,
+      "Special Defense": 40,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/poliwag.png",
+    "cry": "assets/cries/060_poliwag.ogg",
+    "audio_path": "assets/cries/060_poliwag.ogg",
+    "categoria_es": "Pokémon Renacuajo",
+    "descripcion_es": "Tiene una piel extraordinaria, fina y húmeda, que deja entrever las vísceras que tiene dispuestas en espiral.",
+    "voice_path": "assets/voices/060_poliwag.mp3"
+  },
+  "Poliwhirl": {
+    "id": 61,
+    "name": "Poliwhirl",
+    "slug": "poliwhirl",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 20.0,
+    "base_experience": 135,
+    "abilities": [
+      "Water Absorb",
+      "Damp"
+    ],
+    "hidden_ability": "Swift Swim",
+    "stats": {
+      "HP": 65,
+      "Attack": 65,
+      "Defense": 65,
+      "Special Attack": 50,
+      "Special Defense": 50,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/poliwhirl.png",
+    "cry": "assets/cries/061_poliwhirl.ogg",
+    "audio_path": "assets/cries/061_poliwhirl.ogg",
+    "categoria_es": "Pokémon Renacuajo",
+    "descripcion_es": "Capaz de vivir dentro o fuera del agua. Fuera del agua suda para mantener baboso su cuerpo.",
+    "voice_path": "assets/voices/061_poliwhirl.mp3"
+  },
+  "Poliwrath": {
+    "id": 62,
+    "name": "Poliwrath",
+    "slug": "poliwrath",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 54.0,
+    "base_experience": 230,
+    "abilities": [
+      "Water Absorb",
+      "Damp"
+    ],
+    "hidden_ability": "Swift Swim",
+    "stats": {
+      "HP": 90,
+      "Attack": 95,
+      "Defense": 95,
+      "Special Attack": 70,
+      "Special Defense": 90,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/poliwrath.png",
+    "cry": "assets/cries/062_poliwrath.ogg",
+    "audio_path": "assets/cries/062_poliwrath.ogg",
+    "categoria_es": "Pokémon Renacuajo",
+    "descripcion_es": "Tiene músculos muy desarrollados. Es capaz de nadar en el océano sin descanso.",
+    "voice_path": "assets/voices/062_poliwrath.mp3"
+  },
+  "Ponyta": {
+    "id": 77,
+    "name": "Ponyta",
+    "slug": "ponyta",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 30.0,
+    "base_experience": 82,
+    "abilities": [
+      "Run Away",
+      "Flash Fire"
+    ],
+    "hidden_ability": "Flame Body",
+    "stats": {
+      "HP": 50,
+      "Attack": 85,
+      "Defense": 55,
+      "Special Attack": 65,
+      "Special Defense": 65,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/ponyta.png",
+    "cry": "assets/cries/077_ponyta.ogg",
+    "audio_path": "assets/cries/077_ponyta.ogg",
+    "categoria_es": "Pokémon Caballo Fuego",
+    "descripcion_es": "Cuando nace, apenas puede tenerse en pie. Pero va fortaleciendo las patas en cuanto empieza a galopar.",
+    "voice_path": "assets/voices/077_ponyta.mp3"
+  },
+  "Porygon": {
+    "id": 137,
+    "name": "Porygon",
+    "slug": "porygon",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 36.5,
+    "base_experience": 79,
+    "abilities": [
+      "Trace",
+      "Download"
+    ],
+    "hidden_ability": "Analytic",
+    "stats": {
+      "HP": 65,
+      "Attack": 60,
+      "Defense": 70,
+      "Special Attack": 85,
+      "Special Defense": 75,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/porygon.png",
+    "cry": "assets/cries/137_porygon.ogg",
+    "audio_path": "assets/cries/137_porygon.ogg",
+    "categoria_es": "Pokémon Virtual",
+    "descripcion_es": "Pokémon creado por el hombre tras muchas investigaciones. Sus habilidades son básicas.",
+    "voice_path": "assets/voices/137_porygon.mp3"
+  },
+  "Primeape": {
+    "id": 57,
+    "name": "Primeape",
+    "slug": "primeape",
+    "types": [
+      "Fighting"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 32.0,
+    "base_experience": 159,
+    "abilities": [
+      "Vital Spirit",
+      "Anger Point"
+    ],
+    "hidden_ability": "Defiant",
+    "stats": {
+      "HP": 65,
+      "Attack": 105,
+      "Defense": 60,
+      "Special Attack": 60,
+      "Special Defense": 70,
+      "Speed": 95
+    },
+    "sprite": "assets/sprites/primeape.png",
+    "cry": "assets/cries/057_primeape.ogg",
+    "audio_path": "assets/cries/057_primeape.ogg",
+    "categoria_es": "Pokémon Mono Cerdo",
+    "descripcion_es": "Solo se calma cuando nadie está cerca. Llegar a ver ese momento es realmente difícil.",
+    "voice_path": "assets/voices/057_primeape.mp3"
+  },
+  "Psyduck": {
+    "id": 54,
+    "name": "Psyduck",
+    "slug": "psyduck",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 19.6,
+    "base_experience": 64,
+    "abilities": [
+      "Damp",
+      "Cloud Nine"
+    ],
+    "hidden_ability": "Swift Swim",
+    "stats": {
+      "HP": 50,
+      "Attack": 52,
+      "Defense": 48,
+      "Special Attack": 65,
+      "Special Defense": 50,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/psyduck.png",
+    "cry": "assets/cries/054_psyduck.ogg",
+    "audio_path": "assets/cries/054_psyduck.ogg",
+    "categoria_es": "Pokémon Pato",
+    "descripcion_es": "Padece continuamente dolores de cabeza. Cuando son muy fuertes, empieza a usar misteriosos poderes.",
+    "voice_path": "assets/voices/054_psyduck.mp3"
+  },
+  "Raichu": {
+    "id": 26,
+    "name": "Raichu",
+    "slug": "raichu",
+    "types": [
+      "Electric"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 30.0,
+    "base_experience": 218,
+    "abilities": [
+      "Static"
+    ],
+    "hidden_ability": "Lightning Rod",
+    "stats": {
+      "HP": 60,
+      "Attack": 90,
+      "Defense": 55,
+      "Special Attack": 90,
+      "Special Defense": 80,
+      "Speed": 110
+    },
+    "sprite": "assets/sprites/raichu.png",
+    "cry": "assets/cries/026_raichu.ogg",
+    "audio_path": "assets/cries/026_raichu.ogg",
+    "categoria_es": "Pokémon Ratón",
+    "descripcion_es": "Cuando se carga de electricidad, sus músculos se tensan y se vuelve más agresivo de lo normal.",
+    "voice_path": "assets/voices/026_raichu.mp3"
+  },
+  "Rapidash": {
+    "id": 78,
+    "name": "Rapidash",
+    "slug": "rapidash",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 1.7,
+    "weight_kg": 95.0,
+    "base_experience": 175,
+    "abilities": [
+      "Run Away",
+      "Flash Fire"
+    ],
+    "hidden_ability": "Flame Body",
+    "stats": {
+      "HP": 65,
+      "Attack": 100,
+      "Defense": 70,
+      "Special Attack": 80,
+      "Special Defense": 80,
+      "Speed": 105
+    },
+    "sprite": "assets/sprites/rapidash.png",
+    "cry": "assets/cries/078_rapidash.ogg",
+    "audio_path": "assets/cries/078_rapidash.ogg",
+    "categoria_es": "Pokémon Caballo Fuego",
+    "descripcion_es": "Muy competitivo, este Pokémon perseguirá a todo lo que se mueva rápido e intentará salir airoso.",
+    "voice_path": "assets/voices/078_rapidash.mp3"
+  },
+  "Raticate": {
+    "id": 20,
+    "name": "Raticate",
+    "slug": "raticate",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 0.7,
+    "weight_kg": 18.5,
+    "base_experience": 145,
+    "abilities": [
+      "Run Away",
+      "Guts"
+    ],
+    "hidden_ability": "Hustle",
+    "stats": {
+      "HP": 55,
+      "Attack": 81,
+      "Defense": 60,
+      "Special Attack": 50,
+      "Special Defense": 70,
+      "Speed": 97
+    },
+    "sprite": "assets/sprites/raticate.png",
+    "cry": "assets/cries/020_raticate.ogg",
+    "audio_path": "assets/cries/020_raticate.ogg",
+    "categoria_es": "Pokémon Ratón",
+    "descripcion_es": "Lima sus colmillos royendo objetos duros. Con ellos puede destruir incluso paredes de hormigón.",
+    "voice_path": "assets/voices/020_raticate.mp3"
+  },
+  "Rattata": {
+    "id": 19,
+    "name": "Rattata",
+    "slug": "rattata",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 3.5,
+    "base_experience": 51,
+    "abilities": [
+      "Run Away",
+      "Guts"
+    ],
+    "hidden_ability": "Hustle",
+    "stats": {
+      "HP": 30,
+      "Attack": 56,
+      "Defense": 35,
+      "Special Attack": 25,
+      "Special Defense": 35,
+      "Speed": 72
+    },
+    "sprite": "assets/sprites/rattata.png",
+    "cry": "assets/cries/019_rattata.ogg",
+    "audio_path": "assets/cries/019_rattata.ogg",
+    "categoria_es": "Pokémon Ratón",
+    "descripcion_es": "Vive allí donde haya comida disponible. Busca todo el día, sin descanso, algo comestible.",
+    "voice_path": "assets/voices/019_rattata.mp3"
+  },
+  "Rhydon": {
+    "id": 112,
+    "name": "Rhydon",
+    "slug": "rhydon",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "height_m": 1.9,
+    "weight_kg": 120.0,
+    "base_experience": 170,
+    "abilities": [
+      "Lightning Rod",
+      "Rock Head"
+    ],
+    "hidden_ability": "Reckless",
+    "stats": {
+      "HP": 105,
+      "Attack": 130,
+      "Defense": 120,
+      "Special Attack": 45,
+      "Special Defense": 45,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/rhydon.png",
+    "cry": "assets/cries/112_rhydon.ogg",
+    "audio_path": "assets/cries/112_rhydon.ogg",
+    "categoria_es": "Pokémon Taladro",
+    "descripcion_es": "La piel le sirve de escudo protector. Puede vivir en lava líquida a 2000 °C de temperatura.",
+    "voice_path": "assets/voices/112_rhydon.mp3"
+  },
+  "Rhyhorn": {
+    "id": 111,
+    "name": "Rhyhorn",
+    "slug": "rhyhorn",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 115.0,
+    "base_experience": 69,
+    "abilities": [
+      "Lightning Rod",
+      "Rock Head"
+    ],
+    "hidden_ability": "Reckless",
+    "stats": {
+      "HP": 80,
+      "Attack": 85,
+      "Defense": 95,
+      "Special Attack": 30,
+      "Special Defense": 30,
+      "Speed": 25
+    },
+    "sprite": "assets/sprites/rhyhorn.png",
+    "cry": "assets/cries/111_rhyhorn.ogg",
+    "audio_path": "assets/cries/111_rhyhorn.ogg",
+    "categoria_es": "Pokémon Clavos",
+    "descripcion_es": "Es muy fuerte, pero no especialmente listo. Es capaz de derribar rascacielos usando Placaje varias veces.",
+    "voice_path": "assets/voices/111_rhyhorn.mp3"
+  },
+  "Sandshrew": {
+    "id": 27,
+    "name": "Sandshrew",
+    "slug": "sandshrew",
+    "types": [
+      "Ground"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 12.0,
+    "base_experience": 60,
+    "abilities": [
+      "Sand Veil"
+    ],
+    "hidden_ability": "Sand Rush",
+    "stats": {
+      "HP": 50,
+      "Attack": 75,
+      "Defense": 85,
+      "Special Attack": 20,
+      "Special Defense": 30,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/sandshrew.png",
+    "cry": "assets/cries/027_sandshrew.ogg",
+    "audio_path": "assets/cries/027_sandshrew.ogg",
+    "categoria_es": "Pokémon Ratón",
+    "descripcion_es": "Este Pokémon permanece bajo tierra. Si se siente amenazado, se enrosca para defenderse.",
+    "voice_path": "assets/voices/027_sandshrew.mp3"
+  },
+  "Sandslash": {
+    "id": 28,
+    "name": "Sandslash",
+    "slug": "sandslash",
+    "types": [
+      "Ground"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 29.5,
+    "base_experience": 158,
+    "abilities": [
+      "Sand Veil"
+    ],
+    "hidden_ability": "Sand Rush",
+    "stats": {
+      "HP": 75,
+      "Attack": 100,
+      "Defense": 110,
+      "Special Attack": 45,
+      "Special Defense": 55,
+      "Speed": 65
+    },
+    "sprite": "assets/sprites/sandslash.png",
+    "cry": "assets/cries/028_sandslash.ogg",
+    "audio_path": "assets/cries/028_sandslash.ogg",
+    "categoria_es": "Pokémon Ratón",
+    "descripcion_es": "Si cava a gran velocidad, puede que se le caigan las garras y púas. Vuelven a crecerle en un día.",
+    "voice_path": "assets/voices/028_sandslash.mp3"
+  },
+  "Scyther": {
+    "id": 123,
+    "name": "Scyther",
+    "slug": "scyther",
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 56.0,
+    "base_experience": 100,
+    "abilities": [
+      "Swarm",
+      "Technician"
+    ],
+    "hidden_ability": "Steadfast",
+    "stats": {
+      "HP": 70,
+      "Attack": 110,
+      "Defense": 80,
+      "Special Attack": 55,
+      "Special Defense": 80,
+      "Speed": 105
+    },
+    "sprite": "assets/sprites/scyther.png",
+    "cry": "assets/cries/123_scyther.ogg",
+    "audio_path": "assets/cries/123_scyther.ogg",
+    "categoria_es": "Pokémon Mantis",
+    "descripcion_es": "Destroza a su presa con las guadañas que tiene. No es común que use las alas para volar.",
+    "voice_path": "assets/voices/123_scyther.mp3"
+  },
+  "Seadra": {
+    "id": 117,
+    "name": "Seadra",
+    "slug": "seadra",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 25.0,
+    "base_experience": 154,
+    "abilities": [
+      "Poison Point",
+      "Sniper"
+    ],
+    "hidden_ability": "Damp",
+    "stats": {
+      "HP": 55,
+      "Attack": 65,
+      "Defense": 95,
+      "Special Attack": 95,
+      "Special Defense": 45,
+      "Speed": 85
+    },
+    "sprite": "assets/sprites/seadra.png",
+    "cry": "assets/cries/117_seadra.ogg",
+    "audio_path": "assets/cries/117_seadra.ogg",
+    "categoria_es": "Pokémon Dragón",
+    "descripcion_es": "Las afiladas púas que le recubren el cuerpo se le erizan y pueden causar el debilitamiento con solo tocarlo.",
+    "voice_path": "assets/voices/117_seadra.mp3"
+  },
+  "Seaking": {
+    "id": 119,
+    "name": "Seaking",
+    "slug": "seaking",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.3,
+    "weight_kg": 39.0,
+    "base_experience": 158,
+    "abilities": [
+      "Swift Swim",
+      "Water Veil"
+    ],
+    "hidden_ability": "Lightning Rod",
+    "stats": {
+      "HP": 80,
+      "Attack": 92,
+      "Defense": 65,
+      "Special Attack": 65,
+      "Special Defense": 80,
+      "Speed": 68
+    },
+    "sprite": "assets/sprites/seaking.png",
+    "cry": "assets/cries/119_seaking.ogg",
+    "audio_path": "assets/cries/119_seaking.ogg",
+    "categoria_es": "Pokémon Pez Color",
+    "descripcion_es": "En otoño, cuando se reproducen, se les puede ver nadando con energía por ríos y arroyos.",
+    "voice_path": "assets/voices/119_seaking.mp3"
+  },
+  "Seel": {
+    "id": 86,
+    "name": "Seel",
+    "slug": "seel",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 90.0,
+    "base_experience": 65,
+    "abilities": [
+      "Thick Fat",
+      "Hydration"
+    ],
+    "hidden_ability": "Ice Body",
+    "stats": {
+      "HP": 65,
+      "Attack": 45,
+      "Defense": 55,
+      "Special Attack": 45,
+      "Special Defense": 70,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/seel.png",
+    "cry": "assets/cries/086_seel.ogg",
+    "audio_path": "assets/cries/086_seel.ogg",
+    "categoria_es": "Pokémon León Marino",
+    "descripcion_es": "Este Pokémon vive en icebergs. Nada en el mar y usa el cuerno de su cabeza para romper el hielo.",
+    "voice_path": "assets/voices/086_seel.mp3"
+  },
+  "Shellder": {
+    "id": 90,
+    "name": "Shellder",
+    "slug": "shellder",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 4.0,
+    "base_experience": 61,
+    "abilities": [
+      "Shell Armor",
+      "Skill Link"
+    ],
+    "hidden_ability": "Overcoat",
+    "stats": {
+      "HP": 30,
+      "Attack": 65,
+      "Defense": 100,
+      "Special Attack": 45,
+      "Special Defense": 25,
+      "Speed": 40
+    },
+    "sprite": "assets/sprites/shellder.png",
+    "cry": "assets/cries/090_shellder.ogg",
+    "audio_path": "assets/cries/090_shellder.ogg",
+    "categoria_es": "Pokémon Bivalvo",
+    "descripcion_es": "La concha lo protege de cualquier tipo de ataque. Solo es vulnerable cuando se abre.",
+    "voice_path": "assets/voices/090_shellder.mp3"
+  },
+  "Slowbro": {
+    "id": 80,
+    "name": "Slowbro",
+    "slug": "slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 78.5,
+    "base_experience": 172,
+    "abilities": [
+      "Oblivious",
+      "Own Tempo"
+    ],
+    "hidden_ability": "Regenerator",
+    "stats": {
+      "HP": 95,
+      "Attack": 75,
+      "Defense": 110,
+      "Special Attack": 100,
+      "Special Defense": 80,
+      "Speed": 30
+    },
+    "sprite": "assets/sprites/slowbro.png",
+    "cry": "assets/cries/080_slowbro.ogg",
+    "audio_path": "assets/cries/080_slowbro.ogg",
+    "categoria_es": "Pokémon Ermitaño",
+    "descripcion_es": "Tiene una cola tan apetecible, que el Shellder que va enganchado a ella no se soltará por nada del mundo.",
+    "voice_path": "assets/voices/080_slowbro.mp3"
+  },
+  "Slowpoke": {
+    "id": 79,
+    "name": "Slowpoke",
+    "slug": "slowpoke",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 36.0,
+    "base_experience": 63,
+    "abilities": [
+      "Oblivious",
+      "Own Tempo"
+    ],
+    "hidden_ability": "Regenerator",
+    "stats": {
+      "HP": 90,
+      "Attack": 65,
+      "Defense": 65,
+      "Special Attack": 40,
+      "Special Defense": 40,
+      "Speed": 15
+    },
+    "sprite": "assets/sprites/slowpoke.png",
+    "cry": "assets/cries/079_slowpoke.ogg",
+    "audio_path": "assets/cries/079_slowpoke.ogg",
+    "categoria_es": "Pokémon Atontado",
+    "descripcion_es": "Está siempre en su mundo, pero nadie sabe en qué piensa. Suele pescar con la cola.",
+    "voice_path": "assets/voices/079_slowpoke.mp3"
+  },
+  "Snorlax": {
+    "id": 143,
+    "name": "Snorlax",
+    "slug": "snorlax",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 2.1,
+    "weight_kg": 460.0,
+    "base_experience": 189,
+    "abilities": [
+      "Immunity",
+      "Thick Fat"
+    ],
+    "hidden_ability": "Gluttony",
+    "stats": {
+      "HP": 160,
+      "Attack": 110,
+      "Defense": 65,
+      "Special Attack": 65,
+      "Special Defense": 110,
+      "Speed": 30
+    },
+    "sprite": "assets/sprites/snorlax.png",
+    "cry": "assets/cries/143_snorlax.ogg",
+    "audio_path": "assets/cries/143_snorlax.ogg",
+    "categoria_es": "Pokémon Dormir",
+    "descripcion_es": "No se encuentra satisfecho hasta que no se come 400 kg de comida cada día. Cuando acaba de comer, se queda dormido.",
+    "voice_path": "assets/voices/143_snorlax.mp3"
+  },
+  "Spearow": {
+    "id": 21,
+    "name": "Spearow",
+    "slug": "spearow",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 2.0,
+    "base_experience": 52,
+    "abilities": [
+      "Keen Eye"
+    ],
+    "hidden_ability": "Sniper",
+    "stats": {
+      "HP": 40,
+      "Attack": 60,
+      "Defense": 30,
+      "Special Attack": 31,
+      "Special Defense": 31,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/spearow.png",
+    "cry": "assets/cries/021_spearow.ogg",
+    "audio_path": "assets/cries/021_spearow.ogg",
+    "categoria_es": "Pokémon Pajarito",
+    "descripcion_es": "Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad.",
+    "voice_path": "assets/voices/021_spearow.mp3"
+  },
+  "Squirtle": {
+    "id": 7,
+    "name": "Squirtle",
+    "slug": "squirtle",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.5,
+    "weight_kg": 9.0,
+    "base_experience": 63,
+    "abilities": [
+      "Torrent"
+    ],
+    "hidden_ability": "Rain Dish",
+    "stats": {
+      "HP": 44,
+      "Attack": 48,
+      "Defense": 65,
+      "Special Attack": 50,
+      "Special Defense": 64,
+      "Speed": 43
+    },
+    "sprite": "assets/sprites/squirtle.png",
+    "cry": "assets/cries/007_squirtle.ogg",
+    "audio_path": "assets/cries/007_squirtle.ogg",
+    "categoria_es": "Pokémon Tortuguita",
+    "descripcion_es": "Se protege con su caparazón y luego contraataca lanzando agua a presión cuando tiene oportunidad.",
+    "voice_path": "assets/voices/007_squirtle.mp3"
+  },
+  "Starmie": {
+    "id": 121,
+    "name": "Starmie",
+    "slug": "starmie",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "height_m": 1.1,
+    "weight_kg": 80.0,
+    "base_experience": 182,
+    "abilities": [
+      "Illuminate",
+      "Natural Cure"
+    ],
+    "hidden_ability": "Analytic",
+    "stats": {
+      "HP": 60,
+      "Attack": 75,
+      "Defense": 85,
+      "Special Attack": 100,
+      "Special Defense": 85,
+      "Speed": 115
+    },
+    "sprite": "assets/sprites/starmie.png",
+    "cry": "assets/cries/121_starmie.ogg",
+    "audio_path": "assets/cries/121_starmie.ogg",
+    "categoria_es": "Pokémon Misterioso",
+    "descripcion_es": "Su núcleo central brilla con los colores del arcoíris. Para algunos tiene el valor de una gema.",
+    "voice_path": "assets/voices/121_starmie.mp3"
+  },
+  "Staryu": {
+    "id": 120,
+    "name": "Staryu",
+    "slug": "staryu",
+    "types": [
+      "Water"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 34.5,
+    "base_experience": 68,
+    "abilities": [
+      "Illuminate",
+      "Natural Cure"
+    ],
+    "hidden_ability": "Analytic",
+    "stats": {
+      "HP": 30,
+      "Attack": 45,
+      "Defense": 55,
+      "Special Attack": 70,
+      "Special Defense": 55,
+      "Speed": 85
+    },
+    "sprite": "assets/sprites/staryu.png",
+    "cry": "assets/cries/120_staryu.ogg",
+    "audio_path": "assets/cries/120_staryu.ogg",
+    "categoria_es": "Pokémon Estrella",
+    "descripcion_es": "Aunque sus brazos se rompan podrán regenerarse, siempre y cuando su núcleo siga intacto.",
+    "voice_path": "assets/voices/120_staryu.mp3"
+  },
+  "Tangela": {
+    "id": 114,
+    "name": "Tangela",
+    "slug": "tangela",
+    "types": [
+      "Grass"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 35.0,
+    "base_experience": 87,
+    "abilities": [
+      "Chlorophyll",
+      "Leaf Guard"
+    ],
+    "hidden_ability": "Regenerator",
+    "stats": {
+      "HP": 65,
+      "Attack": 55,
+      "Defense": 115,
+      "Special Attack": 100,
+      "Special Defense": 40,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/tangela.png",
+    "cry": "assets/cries/114_tangela.ogg",
+    "audio_path": "assets/cries/114_tangela.ogg",
+    "categoria_es": "Pokémon Enredadera",
+    "descripcion_es": "Se camufla con la multitud de lianas que envuelven su cuerpo y que no dejan de crecer a lo largo de toda su vida.",
+    "voice_path": "assets/voices/114_tangela.mp3"
+  },
+  "Tauros": {
+    "id": 128,
+    "name": "Tauros",
+    "slug": "tauros",
+    "types": [
+      "Normal"
+    ],
+    "height_m": 1.4,
+    "weight_kg": 88.4,
+    "base_experience": 172,
+    "abilities": [
+      "Intimidate",
+      "Anger Point"
+    ],
+    "hidden_ability": "Sheer Force",
+    "stats": {
+      "HP": 75,
+      "Attack": 100,
+      "Defense": 95,
+      "Special Attack": 40,
+      "Special Defense": 70,
+      "Speed": 110
+    },
+    "sprite": "assets/sprites/tauros.png",
+    "cry": "assets/cries/128_tauros.ogg",
+    "audio_path": "assets/cries/128_tauros.ogg",
+    "categoria_es": "Pokémon Toro Bravo",
+    "descripcion_es": "Después de animarse a luchar fustigándose con sus tres colas, carga a toda velocidad.",
+    "voice_path": "assets/voices/128_tauros.mp3"
+  },
+  "Tentacool": {
+    "id": 72,
+    "name": "Tentacool",
+    "slug": "tentacool",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "height_m": 0.9,
+    "weight_kg": 45.5,
+    "base_experience": 67,
+    "abilities": [
+      "Clear Body",
+      "Liquid Ooze"
+    ],
+    "hidden_ability": "Rain Dish",
+    "stats": {
+      "HP": 40,
+      "Attack": 40,
+      "Defense": 35,
+      "Special Attack": 50,
+      "Special Defense": 100,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/tentacool.png",
+    "cry": "assets/cries/072_tentacool.ogg",
+    "audio_path": "assets/cries/072_tentacool.ogg",
+    "categoria_es": "Pokémon Medusa",
+    "descripcion_es": "Su cuerpo se compone casi en exclusiva de agua. Lanza extraños rayos con sus ojos cristalinos.",
+    "voice_path": "assets/voices/072_tentacool.mp3"
+  },
+  "Tentacruel": {
+    "id": 73,
+    "name": "Tentacruel",
+    "slug": "tentacruel",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 55.0,
+    "base_experience": 180,
+    "abilities": [
+      "Clear Body",
+      "Liquid Ooze"
+    ],
+    "hidden_ability": "Rain Dish",
+    "stats": {
+      "HP": 80,
+      "Attack": 70,
+      "Defense": 65,
+      "Special Attack": 80,
+      "Special Defense": 120,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/tentacruel.png",
+    "cry": "assets/cries/073_tentacruel.ogg",
+    "audio_path": "assets/cries/073_tentacruel.ogg",
+    "categoria_es": "Pokémon Medusa",
+    "descripcion_es": "Cuando caza, extiende los cortos tentáculos que tiene para atrapar e inmovilizar a su presa.",
+    "voice_path": "assets/voices/073_tentacruel.mp3"
+  },
+  "Vaporeon": {
+    "id": 134,
+    "name": "Vaporeon",
+    "slug": "vaporeon",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 29.0,
+    "base_experience": 184,
+    "abilities": [
+      "Water Absorb"
+    ],
+    "hidden_ability": "Hydration",
+    "stats": {
+      "HP": 130,
+      "Attack": 65,
+      "Defense": 60,
+      "Special Attack": 110,
+      "Special Defense": 95,
+      "Speed": 65
+    },
+    "sprite": "assets/sprites/vaporeon.png",
+    "cry": "assets/cries/134_vaporeon.ogg",
+    "audio_path": "assets/cries/134_vaporeon.ogg",
+    "categoria_es": "Pokémon Burbuja",
+    "descripcion_es": "Prefiere las bellas costas. Con células parecidas al agua, podría fundirse en la misma.",
+    "voice_path": "assets/voices/134_vaporeon.mp3"
+  },
+  "Venomoth": {
+    "id": 49,
+    "name": "Venomoth",
+    "slug": "venomoth",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "height_m": 1.5,
+    "weight_kg": 12.5,
+    "base_experience": 158,
+    "abilities": [
+      "Shield Dust",
+      "Tinted Lens"
+    ],
+    "hidden_ability": "Wonder Skin",
+    "stats": {
+      "HP": 70,
+      "Attack": 65,
+      "Defense": 60,
+      "Special Attack": 90,
+      "Special Defense": 75,
+      "Speed": 90
+    },
+    "sprite": "assets/sprites/venomoth.png",
+    "cry": "assets/cries/049_venomoth.ogg",
+    "audio_path": "assets/cries/049_venomoth.ogg",
+    "categoria_es": "Pokémon Polilla Ven.",
+    "descripcion_es": "Lanza unas escamas que paralizan a cualquiera. Quien las toque, no podrá ni ponerse de pie.",
+    "voice_path": "assets/voices/049_venomoth.mp3"
+  },
+  "Venonat": {
+    "id": 48,
+    "name": "Venonat",
+    "slug": "venonat",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 30.0,
+    "base_experience": 61,
+    "abilities": [
+      "Compound Eyes",
+      "Tinted Lens"
+    ],
+    "hidden_ability": "Run Away",
+    "stats": {
+      "HP": 60,
+      "Attack": 55,
+      "Defense": 50,
+      "Special Attack": 40,
+      "Special Defense": 55,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/venonat.png",
+    "cry": "assets/cries/048_venonat.ogg",
+    "audio_path": "assets/cries/048_venonat.ogg",
+    "categoria_es": "Pokémon Insecto",
+    "descripcion_es": "Sus grandes ojos son en realidad grupos de ojos diminutos. Por la noche se siente atraído por la luz.",
+    "voice_path": "assets/voices/048_venonat.mp3"
+  },
+  "Venusaur": {
+    "id": 3,
+    "name": "Venusaur",
+    "slug": "venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 2.0,
+    "weight_kg": 100.0,
+    "base_experience": 236,
+    "abilities": [
+      "Overgrow"
+    ],
+    "hidden_ability": "Chlorophyll",
+    "stats": {
+      "HP": 80,
+      "Attack": 82,
+      "Defense": 83,
+      "Special Attack": 100,
+      "Special Defense": 100,
+      "Speed": 80
+    },
+    "sprite": "assets/sprites/venusaur.png",
+    "cry": "assets/cries/003_venusaur.ogg",
+    "audio_path": "assets/cries/003_venusaur.ogg",
+    "categoria_es": "Pokémon Semilla",
+    "descripcion_es": "Llena su cuerpo de energía con los rayos solares que captan los anchos pétalos de su flor.",
+    "voice_path": "assets/voices/003_venusaur.mp3"
+  },
+  "Victreebel": {
+    "id": 71,
+    "name": "Victreebel",
+    "slug": "victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 1.7,
+    "weight_kg": 15.5,
+    "base_experience": 221,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Gluttony",
+    "stats": {
+      "HP": 80,
+      "Attack": 105,
+      "Defense": 65,
+      "Special Attack": 100,
+      "Special Defense": 70,
+      "Speed": 70
+    },
+    "sprite": "assets/sprites/victreebel.png",
+    "cry": "assets/cries/071_victreebel.ogg",
+    "audio_path": "assets/cries/071_victreebel.ogg",
+    "categoria_es": "Pokémon Matamoscas",
+    "descripcion_es": "Dicen que vive en grandes colonias en el interior de las junglas, aunque nadie ha podido verificarlo.",
+    "voice_path": "assets/voices/071_victreebel.mp3"
+  },
+  "Vileplume": {
+    "id": 45,
+    "name": "Vileplume",
+    "slug": "vileplume",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 18.6,
+    "base_experience": 221,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Effect Spore",
+    "stats": {
+      "HP": 75,
+      "Attack": 80,
+      "Defense": 85,
+      "Special Attack": 110,
+      "Special Defense": 90,
+      "Speed": 50
+    },
+    "sprite": "assets/sprites/vileplume.png",
+    "cry": "assets/cries/045_vileplume.ogg",
+    "audio_path": "assets/cries/045_vileplume.ogg",
+    "categoria_es": "Pokémon Flor",
+    "descripcion_es": "Cuanto mayores son sus pétalos, más tóxico es su polen. Le pesa la cabeza y le cuesta mantenerla erguida.",
+    "voice_path": "assets/voices/045_vileplume.mp3"
+  },
+  "Voltorb": {
+    "id": 100,
+    "name": "Voltorb",
+    "slug": "voltorb",
+    "types": [
+      "Electric"
+    ],
+    "height_m": 0.5,
+    "weight_kg": 10.4,
+    "base_experience": 66,
+    "abilities": [
+      "Soundproof",
+      "Static"
+    ],
+    "hidden_ability": "Aftermath",
+    "stats": {
+      "HP": 40,
+      "Attack": 30,
+      "Defense": 50,
+      "Special Attack": 55,
+      "Special Defense": 55,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/voltorb.png",
+    "cry": "assets/cries/100_voltorb.ogg",
+    "audio_path": "assets/cries/100_voltorb.ogg",
+    "categoria_es": "Pokémon Bola",
+    "descripcion_es": "Fue descubierto cuando se crearon las Poké Balls. Se dice que tiene algo que ver con ellas.",
+    "voice_path": "assets/voices/100_voltorb.mp3"
+  },
+  "Vulpix": {
+    "id": 37,
+    "name": "Vulpix",
+    "slug": "vulpix",
+    "types": [
+      "Fire"
+    ],
+    "height_m": 0.6,
+    "weight_kg": 9.9,
+    "base_experience": 60,
+    "abilities": [
+      "Flash Fire"
+    ],
+    "hidden_ability": "Drought",
+    "stats": {
+      "HP": 38,
+      "Attack": 41,
+      "Defense": 40,
+      "Special Attack": 50,
+      "Special Defense": 65,
+      "Speed": 65
+    },
+    "sprite": "assets/sprites/vulpix.png",
+    "cry": "assets/cries/037_vulpix.ogg",
+    "audio_path": "assets/cries/037_vulpix.ogg",
+    "categoria_es": "Pokémon Zorro",
+    "descripcion_es": "Cuando nace solo tiene una cola, pero a medida que crece, esta se va dividiendo desde la punta.",
+    "voice_path": "assets/voices/037_vulpix.mp3"
+  },
+  "Wartortle": {
+    "id": 8,
+    "name": "Wartortle",
+    "slug": "wartortle",
+    "types": [
+      "Water"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 22.5,
+    "base_experience": 142,
+    "abilities": [
+      "Torrent"
+    ],
+    "hidden_ability": "Rain Dish",
+    "stats": {
+      "HP": 59,
+      "Attack": 63,
+      "Defense": 80,
+      "Special Attack": 65,
+      "Special Defense": 80,
+      "Speed": 58
+    },
+    "sprite": "assets/sprites/wartortle.png",
+    "cry": "assets/cries/008_wartortle.ogg",
+    "audio_path": "assets/cries/008_wartortle.ogg",
+    "categoria_es": "Pokémon Tortuga",
+    "descripcion_es": "Si es golpeado, esconderá su cabeza. Aun así, su cola puede seguir golpeando.",
+    "voice_path": "assets/voices/008_wartortle.mp3"
+  },
+  "Weedle": {
+    "id": 13,
+    "name": "Weedle",
+    "slug": "weedle",
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "height_m": 0.3,
+    "weight_kg": 3.2,
+    "base_experience": 39,
+    "abilities": [
+      "Shield Dust"
+    ],
+    "hidden_ability": "Run Away",
+    "stats": {
+      "HP": 40,
+      "Attack": 35,
+      "Defense": 30,
+      "Special Attack": 20,
+      "Special Defense": 20,
+      "Speed": 50
+    },
+    "sprite": "assets/sprites/weedle.png",
+    "cry": "assets/cries/013_weedle.ogg",
+    "audio_path": "assets/cries/013_weedle.ogg",
+    "categoria_es": "Pokémon Oruga",
+    "descripcion_es": "Suele habitar bosques y praderas. Tiene un afilado y venenoso aguijón de unos 5 cm encima de la cabeza.",
+    "voice_path": "assets/voices/013_weedle.mp3"
+  },
+  "Weepinbell": {
+    "id": 70,
+    "name": "Weepinbell",
+    "slug": "weepinbell",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 6.4,
+    "base_experience": 137,
+    "abilities": [
+      "Chlorophyll"
+    ],
+    "hidden_ability": "Gluttony",
+    "stats": {
+      "HP": 65,
+      "Attack": 90,
+      "Defense": 50,
+      "Special Attack": 85,
+      "Special Defense": 45,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/weepinbell.png",
+    "cry": "assets/cries/070_weepinbell.ogg",
+    "audio_path": "assets/cries/070_weepinbell.ogg",
+    "categoria_es": "Pokémon Matamoscas",
+    "descripcion_es": "Las hojas que tiene actúan como cuchillas en combate. Otra de sus armas es el corrosivo fluido que expulsa.",
+    "voice_path": "assets/voices/070_weepinbell.mp3"
+  },
+  "Weezing": {
+    "id": 110,
+    "name": "Weezing",
+    "slug": "weezing",
+    "types": [
+      "Poison"
+    ],
+    "height_m": 1.2,
+    "weight_kg": 9.5,
+    "base_experience": 172,
+    "abilities": [
+      "Levitate",
+      "Neutralizing Gas"
+    ],
+    "hidden_ability": "Stench",
+    "stats": {
+      "HP": 65,
+      "Attack": 90,
+      "Defense": 120,
+      "Special Attack": 85,
+      "Special Defense": 70,
+      "Speed": 60
+    },
+    "sprite": "assets/sprites/weezing.png",
+    "cry": "assets/cries/110_weezing.ogg",
+    "audio_path": "assets/cries/110_weezing.ogg",
+    "categoria_es": "Pokémon Gas Venenoso",
+    "descripcion_es": "Si uno de los gemelos Koffing se infla, el otro se desinfla. Mezclan constantemente sus venenosos gases.",
+    "voice_path": "assets/voices/110_weezing.mp3"
+  },
+  "Wigglytuff": {
+    "id": 40,
+    "name": "Wigglytuff",
+    "slug": "wigglytuff",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "height_m": 1.0,
+    "weight_kg": 12.0,
+    "base_experience": 196,
+    "abilities": [
+      "Cute Charm",
+      "Competitive"
+    ],
+    "hidden_ability": "Frisk",
+    "stats": {
+      "HP": 140,
+      "Attack": 70,
+      "Defense": 45,
+      "Special Attack": 85,
+      "Special Defense": 50,
+      "Speed": 45
+    },
+    "sprite": "assets/sprites/wigglytuff.png",
+    "cry": "assets/cries/040_wigglytuff.ogg",
+    "audio_path": "assets/cries/040_wigglytuff.ogg",
+    "categoria_es": "Pokémon Globo",
+    "descripcion_es": "Su piel es tan suave que si dos de ellos se acurrucan juntos, no querrán separarse nunca.",
+    "voice_path": "assets/voices/040_wigglytuff.mp3"
+  },
+  "Zapdos": {
+    "id": 145,
+    "name": "Zapdos",
+    "slug": "zapdos",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "height_m": 1.6,
+    "weight_kg": 52.6,
+    "base_experience": 261,
+    "abilities": [
+      "Pressure"
+    ],
+    "hidden_ability": "Static",
+    "stats": {
+      "HP": 90,
+      "Attack": 90,
+      "Defense": 85,
+      "Special Attack": 125,
+      "Special Defense": 90,
+      "Speed": 100
+    },
+    "sprite": "assets/sprites/zapdos.png",
+    "cry": "assets/cries/145_zapdos.ogg",
+    "audio_path": "assets/cries/145_zapdos.ogg",
+    "categoria_es": "Pokémon Eléctrico",
+    "descripcion_es": "Es un legendario pájaro Pokémon. Dicen que aparece entre las nubes lanzando enormes rayos brillantes.",
+    "voice_path": "assets/voices/145_zapdos.mp3"
+  },
+  "Zubat": {
+    "id": 41,
+    "name": "Zubat",
+    "slug": "zubat",
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "height_m": 0.8,
+    "weight_kg": 7.5,
+    "base_experience": 49,
+    "abilities": [
+      "Inner Focus"
+    ],
+    "hidden_ability": "Infiltrator",
+    "stats": {
+      "HP": 40,
+      "Attack": 45,
+      "Defense": 35,
+      "Special Attack": 30,
+      "Special Defense": 40,
+      "Speed": 55
+    },
+    "sprite": "assets/sprites/zubat.png",
+    "cry": "assets/cries/041_zubat.ogg",
+    "audio_path": "assets/cries/041_zubat.ogg",
+    "categoria_es": "Pokémon Murciélago",
+    "descripcion_es": "Aunque carezca de ojos, puede detectar obstáculos con las ondas ultrasónicas que emite su boca.",
+    "voice_path": "assets/voices/041_zubat.mp3"
+  }
+}
